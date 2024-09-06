@@ -7,7 +7,6 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.MappedSuperclass;
-import jakarta.persistence.SequenceGenerator;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
@@ -25,9 +24,9 @@ import java.time.ZonedDateTime;
 @EqualsAndHashCode(onlyExplicitlyIncluded = true)
 @JsonInclude
 public class BaseEntity implements Serializable {
+
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "id_generator")
-    @SequenceGenerator(name = "id_generator", sequenceName = "id_generator", allocationSize = 1, schema = "dbo")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "ID", updatable = false, nullable = false)
     @EqualsAndHashCode.Include
     private Long id;

@@ -16,7 +16,7 @@ import java.time.Instant;
 
 @Entity
 @SQLRestriction("DELETED = 0")
-@SQLDelete(sql = "UPDATE ACCESS_TOKEN SET DELETED = '1' WHERE ID = ?")
+@SQLDelete(sql = "UPDATE access_token SET DELETED = 1 WHERE ID = ?")
 @Table(name = "ACCESS_TOKEN", uniqueConstraints = {
         @UniqueConstraint(columnNames = "JTI", name = "acc_token_uniq_cons"),
         @UniqueConstraint(columnNames = "REFRESH_TOKEN_JTI", name = "ref_token_uniq_cons")

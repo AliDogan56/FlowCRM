@@ -13,5 +13,4 @@ public interface AccessTokenRepository extends CrudRepository<AccessToken, Long>
 
     void deleteAccessTokenByJti(final String jti);
 
-    void deleteByUserId(String userId);
 }

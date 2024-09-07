@@ -28,7 +28,7 @@ import org.hibernate.annotations.SQLRestriction;
 @NoArgsConstructor
 public class AppUser extends BaseEntity {
 
-    @Column(name = "USERNAME", nullable = false)
+    @Column(name = "USERNAME", nullable = false, unique = true)
     private String username;
     @Column(name = "PASSWORD", nullable = false)
     private String password;

@@ -13,7 +13,7 @@ import org.hibernate.annotations.SQLRestriction;
 @Setter
 @ToString
 @SQLRestriction("DELETED = 0")
-@SQLDelete(sql = "UPDATE APP_USER SET DELETED =  '1' WHERE ID = ?")
+@SQLDelete(sql = "UPDATE app_user SET DELETED =  1 WHERE ID = ?")
 @Table(name = "CUSTOMER_USER")
 @Entity
 public class CustomerUser extends AppUser {

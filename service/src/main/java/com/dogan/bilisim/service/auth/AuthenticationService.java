@@ -99,7 +99,6 @@ public class AuthenticationService implements UserAuthenticationService {
         return Optional.ofNullable(SecurityUserDetails.build(user, claims.getId(), token, scopes, JwtTokenFactory.getClaims(user.getUsername(), scopes, user.getUsername()), claims.getExpiration().toInstant()));
     }
 
-    //TODO Does need to save user agent details?
     @Override
     @Transactional
     public void logout(HttpServletRequest request) {

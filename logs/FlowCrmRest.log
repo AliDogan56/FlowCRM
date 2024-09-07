@@ -1,41 +1,62 @@
-2024-09-06T18:52:26.272+02:00  INFO 10064 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 10064 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T18:52:26.274+02:00  INFO 10064 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T18:52:30.638+02:00  INFO 10064 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 4.81 seconds (process running for 5.611)
-2024-09-06T18:53:39.109+02:00  INFO 10084 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 10084 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T18:53:39.111+02:00  INFO 10084 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T18:53:43.096+02:00  INFO 10084 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 4.51 seconds (process running for 5.255)
-2024-09-06T18:57:16.426+02:00  INFO 10317 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 10317 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T18:57:16.429+02:00  INFO 10317 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T18:57:20.760+02:00  INFO 10317 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.055 seconds (process running for 5.922)
-2024-09-06T19:23:42.761+02:00  INFO 10996 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 10996 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:23:42.763+02:00  INFO 10996 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:23:48.328+02:00  INFO 10996 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.991 seconds (process running for 6.643)
-2024-09-06T19:24:39.061+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:24:39.063+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:24:43.792+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.235 seconds (process running for 5.996)
-2024-09-06T19:28:50.896+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:28:50.896+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:28:52.166+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.312 seconds (process running for 254.369)
-2024-09-06T19:28:53.603+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:28:53.603+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:28:54.755+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.182 seconds (process running for 256.958)
-2024-09-06T19:34:19.526+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:34:19.528+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:34:24.854+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.461 seconds (process running for 587.042)
-2024-09-06T19:34:58.889+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:34:58.889+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:35:00.310+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.478 seconds (process running for 622.498)
-2024-09-06T19:35:58.984+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:35:58.984+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:36:00.615+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.683 seconds (process running for 682.803)
-2024-09-06T19:36:02.101+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:36:02.102+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:36:03.117+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.043 seconds (process running for 685.305)
-2024-09-06T19:37:01.943+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11029 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:37:01.943+02:00  INFO 11029 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:37:02.369+02:00 ERROR 11029 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+2024-09-07T21:36:14.529+02:00  INFO 23210 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23210 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T21:36:14.533+02:00  INFO 23210 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T21:36:20.232+02:00  INFO 23210 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.245 seconds (process running for 7.804)
+2024-09-07T21:49:22.682+02:00  INFO 23628 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23628 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T21:49:22.685+02:00  INFO 23628 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T21:49:28.277+02:00  INFO 23628 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.057 seconds (process running for 6.763)
+2024-09-07T22:00:31.576+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:00:31.578+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:00:37.191+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.071 seconds (process running for 6.782)
+2024-09-07T22:08:54.734+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:08:54.735+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:08:55.887+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.192 seconds (process running for 505.488)
+2024-09-07T22:11:05.694+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:11:05.694+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:11:06.852+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.2 seconds (process running for 636.455)
+2024-09-07T22:11:08.366+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:11:08.366+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:11:09.202+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 0.869 seconds (process running for 638.805)
+2024-09-07T22:13:14.997+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:13:14.997+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:13:16.007+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.041 seconds (process running for 765.593)
+2024-09-07T22:15:27.175+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:15:27.175+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:15:28.067+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 0.919 seconds (process running for 897.656)
+2024-09-07T22:16:21.013+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:16:21.014+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:16:21.911+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 0.925 seconds (process running for 951.5)
+2024-09-07T22:17:15.936+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:17:15.937+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:17:16.863+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 0.955 seconds (process running for 1006.453)
+2024-09-07T22:17:23.374+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 23848 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:17:23.374+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:17:24.185+02:00  INFO 23848 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 0.839 seconds (process running for 1013.775)
+2024-09-07T22:17:48.753+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24246 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:17:48.755+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:17:53.987+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.725 seconds (process running for 6.427)
+2024-09-07T22:20:43.336+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24246 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:20:43.337+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:20:45.095+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.858 seconds (process running for 177.538)
+2024-09-07T22:24:08.114+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24246 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:24:08.115+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:24:09.153+02:00  INFO 24246 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.129 seconds (process running for 381.599)
+2024-09-07T22:24:28.240+02:00  INFO 24420 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24420 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:24:28.243+02:00  INFO 24420 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:24:33.481+02:00  INFO 24420 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.776 seconds (process running for 6.512)
+2024-09-07T22:25:03.960+02:00  INFO 24437 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24437 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:25:03.962+02:00  INFO 24437 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:25:09.575+02:00  INFO 24437 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.432 seconds (process running for 7.395)
+2024-09-07T22:27:53.052+02:00  INFO 24524 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24524 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:27:53.055+02:00  INFO 24524 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:27:59.757+02:00  INFO 24524 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.291 seconds (process running for 8.25)
+2024-09-07T22:29:13.663+02:00  INFO 24561 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24561 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:29:13.665+02:00  INFO 24561 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:29:18.963+02:00  INFO 24561 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.788 seconds (process running for 6.55)
+2024-09-07T22:31:37.195+02:00  INFO 24619 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24619 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:31:37.198+02:00  INFO 24619 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:31:39.833+02:00 ERROR 24619 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
 
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'dataSourceScriptDatabaseInitializer' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Unsatisfied dependency expressed through method 'dataSourceScriptDatabaseInitializer' parameter 0: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Cannot load driver class: com.mysql.cj.jdbc.Driver
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'dataSourceScriptDatabaseInitializer' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: No data scripts found at location '/db/insert/insert.sql'
 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:326) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952) ~[spring-context-6.1.8.jar:6.1.8]
@@ -52,12 +73,9 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
-Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Unsatisfied dependency expressed through method 'dataSourceScriptDatabaseInitializer' parameter 0: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Cannot load driver class: com.mysql.cj.jdbc.Driver
-	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:795) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:542) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1337) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1167) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.8.jar:6.1.8]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: No data scripts found at location '/db/insert/insert.sql'
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1788) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.8.jar:6.1.8]
@@ -65,53 +83,82 @@ Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Err
 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:313) ~[spring-beans-6.1.8.jar:6.1.8]
 	... 15 common frames omitted
-Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Cannot load driver class: com.mysql.cj.jdbc.Driver
-	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:648) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:636) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1337) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1167) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.8.jar:6.1.8]
+Caused by: java.lang.IllegalStateException: No data scripts found at location '/db/insert/insert.sql'
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.getScripts(AbstractScriptDatabaseInitializer.java:129) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:106) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:102) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:77) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:66) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784) ~[spring-beans-6.1.8.jar:6.1.8]
+	... 22 common frames omitted
+
+2024-09-07T22:32:19.665+02:00  INFO 24636 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24636 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:32:19.668+02:00  INFO 24636 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:32:25.487+02:00  INFO 24636 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.65 seconds (process running for 7.563)
+2024-09-07T22:33:46.488+02:00  INFO 24673 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24673 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:33:46.491+02:00  INFO 24673 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:33:49.244+02:00 ERROR 24673 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'dataSourceScriptDatabaseInitializer' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Failed to execute SQL script statement #1 of class path resource [db/insert/insert.sql]: INSERT INTO app_user (USERNAME, PASSWORD, ROLE, DELETED, CREATED_AT, UPDATED_AT) VALUES ('admin', 'MTIzNDU2N2E=', 'SYSTEM_OWNER', 0, NOW(), NOW())
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:326) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.0.jar:3.3.0]
+	at com.dogan.bilisim.RestApplication.main(RestApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Failed to execute SQL script statement #1 of class path resource [db/insert/insert.sql]: INSERT INTO app_user (USERNAME, PASSWORD, ROLE, DELETED, CREATED_AT, UPDATED_AT) VALUES ('admin', 'MTIzNDU2N2E=', 'SYSTEM_OWNER', 0, NOW(), NOW())
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1788) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:904) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:782) ~[spring-beans-6.1.8.jar:6.1.8]
-	... 25 common frames omitted
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Cannot load driver class: com.mysql.cj.jdbc.Driver
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:177) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:644) ~[spring-beans-6.1.8.jar:6.1.8]
-	... 39 common frames omitted
-Caused by: java.lang.IllegalStateException: Cannot load driver class: com.mysql.cj.jdbc.Driver
-	at org.springframework.util.Assert.state(Assert.java:97) ~[spring-core-6.1.8.jar:6.1.8]
-	at org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.determineDriverClassName(DataSourceProperties.java:175) ~[spring-boot-autoconfigure-3.3.0.jar:3.3.0]
-	at org.springframework.boot.autoconfigure.jdbc.PropertiesJdbcConnectionDetails.getDriverClassName(PropertiesJdbcConnectionDetails.java:49) ~[spring-boot-autoconfigure-3.3.0.jar:3.3.0]
-	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:55) ~[spring-boot-autoconfigure-3.3.0.jar:3.3.0]
-	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:117) ~[spring-boot-autoconfigure-3.3.0.jar:3.3.0]
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:140) ~[spring-beans-6.1.8.jar:6.1.8]
-	... 40 common frames omitted
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:313) ~[spring-beans-6.1.8.jar:6.1.8]
+	... 15 common frames omitted
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of class path resource [db/insert/insert.sql]: INSERT INTO app_user (USERNAME, PASSWORD, ROLE, DELETED, CREATED_AT, UPDATED_AT) VALUES ('admin', 'MTIzNDU2N2E=', 'SYSTEM_OWNER', 0, NOW(), NOW())
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:87) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:146) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:108) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:102) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:77) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:66) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784) ~[spring-beans-6.1.8.jar:6.1.8]
+	... 22 common frames omitted
+Caused by: java.sql.SQLException: Incorrect integer value: 'SYSTEM_OWNER' for column 'role' at row 1
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:130) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94) ~[HikariCP-5.1.0.jar:na]
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java) ~[HikariCP-5.1.0.jar:na]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	... 32 common frames omitted
 
-2024-09-06T19:40:30.758+02:00  INFO 11688 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11688 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:40:30.760+02:00  INFO 11688 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:40:33.868+02:00 ERROR 11688 --- [restartedMain] o.h.engine.jdbc.spi.SqlExceptionHelper   : Unknown table 'SEQUENCES' in information_schema
-2024-09-06T19:40:33.875+02:00 ERROR 11688 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
-2024-09-06T19:40:33.917+02:00 ERROR 11688 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+2024-09-07T22:34:11.871+02:00  INFO 24690 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24690 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:34:11.873+02:00  INFO 24690 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:34:17.203+02:00  INFO 24690 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.815 seconds (process running for 6.637)
+2024-09-07T22:40:17.169+02:00  INFO 24837 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24837 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:40:17.171+02:00  INFO 24837 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:40:19.531+02:00 ERROR 24837 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
 
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1788) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335) ~[spring-beans-6.1.8.jar:6.1.8]
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'dataSourceScriptDatabaseInitializer' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Failed to execute SQL script statement #1 of class path resource [db/insert/insert.sql]: INSERT INTO app_user (USERNAME, PASSWORD, ROLE, DELETED, CREATED_AT, UPDATED_AT) VALUES ('admin', 'MTIzNDU2N2E=', 0, 0, NOW(), NOW())
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:326) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952) ~[spring-context-6.1.8.jar:6.1.8]
 	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.8.jar:6.1.8]
@@ -127,116 +174,363 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784) ~[spring-beans-6.1.8.jar:6.1.8]
-	... 20 common frames omitted
-Caused by: org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
-	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:66) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:58) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:108) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:94) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:194) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:98) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1421) ~[na:na]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:322) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:457) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1506) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.1.8.jar:6.1.8]
-	... 24 common frames omitted
-Caused by: java.sql.SQLSyntaxErrorException: Unknown table 'SEQUENCES' in information_schema
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:972) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52) ~[HikariCP-5.1.0.jar:na]
-	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java) ~[HikariCP-5.1.0.jar:na]
-	at org.hibernate.tool.schema.extract.spi.ExtractionContext.getQueryResults(ExtractionContext.java:49) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:39) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:66) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:60) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:185) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	... 37 common frames omitted
-
-2024-09-06T19:41:53.053+02:00  INFO 11725 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11725 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:41:53.056+02:00  INFO 11725 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:41:56.495+02:00 ERROR 11725 --- [restartedMain] o.h.engine.jdbc.spi.SqlExceptionHelper   : Unknown table 'SEQUENCES' in information_schema
-2024-09-06T19:41:56.500+02:00 ERROR 11725 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
-2024-09-06T19:41:56.542+02:00 ERROR 11725 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Failed to execute SQL script statement #1 of class path resource [db/insert/insert.sql]: INSERT INTO app_user (USERNAME, PASSWORD, ROLE, DELETED, CREATED_AT, UPDATED_AT) VALUES ('admin', 'MTIzNDU2N2E=', 0, 0, NOW(), NOW())
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1788) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.8.jar:6.1.8]
 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:952) ~[spring-context-6.1.8.jar:6.1.8]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.8.jar:6.1.8]
-	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.0.jar:3.3.0]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.0.jar:3.3.0]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.0.jar:3.3.0]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.0.jar:3.3.0]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.0.jar:3.3.0]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.0.jar:3.3.0]
-	at com.dogan.bilisim.RestApplication.main(RestApplication.java:16) ~[classes/:na]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:313) ~[spring-beans-6.1.8.jar:6.1.8]
+	... 15 common frames omitted
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of class path resource [db/insert/insert.sql]: INSERT INTO app_user (USERNAME, PASSWORD, ROLE, DELETED, CREATED_AT, UPDATED_AT) VALUES ('admin', 'MTIzNDU2N2E=', 0, 0, NOW(), NOW())
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:87) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:146) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:108) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:102) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:77) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:66) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784) ~[spring-beans-6.1.8.jar:6.1.8]
+	... 22 common frames omitted
+Caused by: java.sql.SQLSyntaxErrorException: Table 'flow_crm.app_user' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94) ~[HikariCP-5.1.0.jar:na]
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java) ~[HikariCP-5.1.0.jar:na]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261) ~[spring-jdbc-6.1.8.jar:6.1.8]
+	... 32 common frames omitted
+
+2024-09-07T22:43:59.349+02:00  INFO 24904 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 24904 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:43:59.353+02:00  INFO 24904 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:44:05.188+02:00  INFO 24904 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.563 seconds (process running for 7.506)
+2024-09-07T22:48:36.085+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 25014 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:48:36.088+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:48:41.763+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.475 seconds (process running for 7.394)
+2024-09-07T22:49:03.418+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 25014 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:49:03.419+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:49:04.602+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.223 seconds (process running for 30.234)
+2024-09-07T22:51:44.771+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 25014 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:51:44.772+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:51:45.907+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.169 seconds (process running for 191.538)
+2024-09-07T22:53:32.438+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 25014 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T22:53:32.438+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T22:53:33.536+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.13 seconds (process running for 299.167)
+2024-09-07T23:03:09.332+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 25014 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T23:03:09.333+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T23:03:10.707+02:00  INFO 25014 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.415 seconds (process running for 876.301)
+2024-09-07T23:06:24.559+02:00  INFO 25425 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 25425 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-07T23:06:24.561+02:00  INFO 25425 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-07T23:06:30.645+02:00  INFO 25425 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.617 seconds (process running for 7.426)
+2024-09-07T23:09:44.093+02:00 ERROR 25425 --- [http-nio-8080-exec-1] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.AuthorizationHeaderCannotBeBlank
+
+com.dogan.bilisim.service.auth.exception.FlowCrmSecurityException: ApiMessages.AuthorizationHeaderCannotBeBlank
+	at com.dogan.bilisim.service.auth.jwt.JwtHeaderTokenExtractor.extract(JwtHeaderTokenExtractor.java:20) ~[classes/:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835) ~[spring-beans-6.1.8.jar:6.1.8]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784) ~[spring-beans-6.1.8.jar:6.1.8]
-	... 20 common frames omitted
-Caused by: org.hibernate.exception.SQLGrammarException: Unable to build DatabaseInformation [Unknown table 'SEQUENCES' in information_schema] [n/a]
-	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:66) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:58) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:108) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:94) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:194) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:98) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:280) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1421) ~[na:na]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:322) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:457) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1506) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.1.8.jar:6.1.8]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.1.8.jar:6.1.8]
-	... 24 common frames omitted
-Caused by: java.sql.SQLSyntaxErrorException: Unknown table 'SEQUENCES' in information_schema
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:972) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52) ~[HikariCP-5.1.0.jar:na]
-	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java) ~[HikariCP-5.1.0.jar:na]
-	at org.hibernate.tool.schema.extract.spi.ExtractionContext.getQueryResults(ExtractionContext.java:49) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:39) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:66) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:60) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:185) ~[hibernate-core-6.5.2.Final.jar:6.5.2.Final]
-	... 37 common frames omitted
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.service.auth.jwt.JwtHeaderTokenExtractor$$SpringCGLIB$$0.extract(<generated>) ~[classes/:na]
+	at com.dogan.bilisim.auth.jwt.JwtTokenAuthenticationProcessingFilter.attemptAuthentication(JwtTokenAuthenticationProcessingFilter.java:45) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
 
-2024-09-06T19:43:04.926+02:00  INFO 11747 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 11747 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
-2024-09-06T19:43:04.928+02:00  INFO 11747 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
-2024-09-06T19:43:09.308+02:00  INFO 11747 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 4.809 seconds (process running for 5.467)
+2024-09-07T23:11:03.108+02:00 ERROR 25425 --- [http-nio-8080-exec-5] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.AuthorizationHeaderCannotBeBlank
+
+com.dogan.bilisim.service.auth.exception.FlowCrmSecurityException: ApiMessages.AuthorizationHeaderCannotBeBlank
+	at com.dogan.bilisim.service.auth.jwt.JwtHeaderTokenExtractor.extract(JwtHeaderTokenExtractor.java:20) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.service.auth.jwt.JwtHeaderTokenExtractor$$SpringCGLIB$$0.extract(<generated>) ~[classes/:na]
+	at com.dogan.bilisim.auth.jwt.JwtTokenAuthenticationProcessingFilter.attemptAuthentication(JwtTokenAuthenticationProcessingFilter.java:45) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-07T23:11:38.275+02:00 ERROR 25425 --- [http-nio-8080-exec-6] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.InvalidUsernameOrPassword
+
+org.springframework.security.authentication.BadCredentialsException: ApiMessages.InvalidUsernameOrPassword
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticateByUsernameAndPassword(RestAuthenticationProvider.java:68) ~[classes/:na]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticate(RestAuthenticationProvider.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider$$SpringCGLIB$$0.authenticate(<generated>) ~[classes/:na]
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182) ~[spring-security-core-6.3.0.jar:6.3.0]
+	at com.dogan.bilisim.auth.rest.RestLoginProcessingFilter.attemptAuthentication(RestLoginProcessingFilter.java:68) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-07T23:12:26.602+02:00 ERROR 25425 --- [http-nio-8080-exec-8] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.InvalidUsernameOrPassword
+
+org.springframework.security.authentication.BadCredentialsException: ApiMessages.InvalidUsernameOrPassword
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticateByUsernameAndPassword(RestAuthenticationProvider.java:68) ~[classes/:na]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticate(RestAuthenticationProvider.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider$$SpringCGLIB$$0.authenticate(<generated>) ~[classes/:na]
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182) ~[spring-security-core-6.3.0.jar:6.3.0]
+	at com.dogan.bilisim.auth.rest.RestLoginProcessingFilter.attemptAuthentication(RestLoginProcessingFilter.java:68) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+

@@ -22,7 +22,7 @@ public class CustomerUser extends AppUser {
     private String firstName;
     @Column(name = "LAST_NAME", nullable = false)
     private String lastName;
-    @Column(name = "EMAIL")
+    @Column(name = "EMAIL", unique = true)
     protected String email;
     @Column(name = "REGION")
     protected String region;

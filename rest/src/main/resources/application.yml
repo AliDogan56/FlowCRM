@@ -1,4 +1,4 @@
-flowCrm:
+flowcrm:
   baseurl: http://localhost:8080
   security:
     jwt:
@@ -61,5 +61,9 @@ spring:
       max-request-size: 10MB
 
 
-
+database.vendor.error:
+  codes:
+    2627:
+      message: "Validation.constraint.violation.duplicate.key"
+      errorCode: UNIQUE_CONSTRAINS
 

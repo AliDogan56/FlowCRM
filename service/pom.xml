@@ -14,6 +14,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.github.ua-parser</groupId>
+            <artifactId>uap-java</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+        <dependency>
             <groupId>com.dogan.bilisim</groupId>
             <artifactId>dao</artifactId>
             <version>${revision}</version>

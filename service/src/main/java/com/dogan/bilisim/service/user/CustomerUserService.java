@@ -83,7 +83,7 @@ public class CustomerUserService {
         toBeUpdatedCustomerUser.setUsername(customerUserDTO.getUsername());
         toBeUpdatedCustomerUser.setFirstName(customerUserDTO.getFirstName());
         toBeUpdatedCustomerUser.setLastName(customerUserDTO.getLastName());
-        toBeUpdatedCustomerUser.setPassword(customerUserDTO.getPassword() == null ? toBeUpdatedCustomerUser.getPassword() : customerUserDTO.getPassword());
+        toBeUpdatedCustomerUser.setPassword(customerUserDTO.getPassword() == null ? toBeUpdatedCustomerUser.getPassword() : passwordEncoder.encode(customerUserDTO.getPassword()));
         toBeUpdatedCustomerUser.setEmail(customerUserDTO.getEmail());
         toBeUpdatedCustomerUser.setRegion(customerUserDTO.getRegion());
         return customerUserEntityDtoConverter.toCustomerUserDTO(customerUserRepository.save(toBeUpdatedCustomerUser));

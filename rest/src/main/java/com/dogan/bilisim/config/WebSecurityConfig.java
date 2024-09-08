@@ -6,6 +6,7 @@ import com.dogan.bilisim.auth.jwt.JwtTokenAuthenticationProcessingFilter;
 import com.dogan.bilisim.auth.rest.RestAuthenticationProvider;
 import com.dogan.bilisim.auth.rest.RestLoginProcessingFilter;
 import com.dogan.bilisim.exception.FlowCrmErrorResponseHandler;
+import com.dogan.bilisim.interceptor.RequestLoggingFilter;
 import com.dogan.bilisim.service.auth.jwt.JwtHeaderTokenExtractor;
 import com.dogan.bilisim.service.auth.util.JwtUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -76,6 +77,9 @@ public class WebSecurityConfig {
     @Lazy
     @Autowired
     private JwtUtil jwtUtil;
+    @Lazy
+    @Autowired
+    private RequestLoggingFilter requestLoggingFilter;
 
     @Bean
     protected SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
@@ -89,8 +93,10 @@ public class WebSecurityConfig {
                 .exceptionHandling(httpSecurityExceptionHandlingConfigurer ->
                         httpSecurityExceptionHandlingConfigurer.accessDeniedHandler(flowCrmErrorResponseHandler)
                 )
+                .addFilterBefore(requestLoggingFilter, UsernamePasswordAuthenticationFilter.class)
                 .addFilterBefore(buildRestLoginProcessingFilter(), UsernamePasswordAuthenticationFilter.class)
                 .addFilterBefore(buildJwtTokenAuthenticationProcessingFilter(), UsernamePasswordAuthenticationFilter.class);
+
 
         return http.build();
     }

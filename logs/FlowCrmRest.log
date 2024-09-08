@@ -4,3 +4,915 @@
 2024-09-08T01:31:46.959+02:00  INFO 29091 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 29091 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
 2024-09-08T01:31:46.961+02:00  INFO 29091 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
 2024-09-08T01:31:53.101+02:00  INFO 29091 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.642 seconds (process running for 7.35)
+2024-09-08T01:33:25.197+02:00  INFO 29306 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 29306 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T01:33:25.199+02:00  INFO 29306 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T01:33:31.716+02:00  INFO 29306 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.137 seconds (process running for 8.172)
+2024-09-08T11:28:19.035+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:28:19.038+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:28:27.025+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 8.531 seconds (process running for 10.098)
+2024-09-08T11:30:31.750+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:30:31.751+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:30:33.488+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.803 seconds (process running for 136.559)
+2024-09-08T11:30:34.987+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:30:34.988+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:30:36.279+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.339 seconds (process running for 139.35)
+2024-09-08T11:43:20.916+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:43:20.917+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:43:23.129+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 2.287 seconds (process running for 906.21)
+2024-09-08T11:43:25.688+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:43:25.689+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:43:27.382+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.744 seconds (process running for 910.463)
+2024-09-08T11:43:28.851+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:43:28.851+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:43:30.057+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.233 seconds (process running for 913.138)
+2024-09-08T11:44:46.294+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:44:46.295+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:44:47.789+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.532 seconds (process running for 990.868)
+2024-09-08T11:44:49.351+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:44:49.352+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:44:50.670+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.379 seconds (process running for 993.75)
+2024-09-08T11:45:29.542+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:45:29.543+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:45:31.015+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.505 seconds (process running for 1034.095)
+2024-09-08T11:45:32.495+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:45:32.496+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:45:33.631+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.163 seconds (process running for 1036.711)
+2024-09-08T11:46:38.824+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:46:38.824+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:46:40.491+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.707 seconds (process running for 1103.569)
+2024-09-08T11:47:34.493+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32381 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:47:34.494+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:47:35.766+02:00  INFO 32381 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.299 seconds (process running for 1158.844)
+2024-09-08T11:47:55.322+02:00  INFO 32852 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32852 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:47:55.324+02:00  INFO 32852 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:48:02.991+02:00  INFO 32852 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 8.178 seconds (process running for 9.188)
+2024-09-08T11:48:06.739+02:00  INFO 32869 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32869 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:48:06.741+02:00  INFO 32869 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:48:12.826+02:00  INFO 32869 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.655 seconds (process running for 7.505)
+2024-09-08T11:49:16.191+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:49:16.193+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:49:22.065+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.403 seconds (process running for 7.12)
+2024-09-08T11:52:40.555+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:52:40.555+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:52:41.997+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.486 seconds (process running for 207.049)
+2024-09-08T11:52:53.608+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:52:53.608+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:52:55.464+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.897 seconds (process running for 220.516)
+2024-09-08T11:53:00.982+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:53:00.982+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:53:02.438+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.491 seconds (process running for 227.491)
+2024-09-08T11:53:27.164+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:53:27.165+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:53:28.490+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.356 seconds (process running for 253.543)
+2024-09-08T11:54:24.631+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:54:24.631+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:54:26.197+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.619 seconds (process running for 311.263)
+2024-09-08T11:54:27.732+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:54:27.733+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:54:29.067+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.389 seconds (process running for 314.133)
+2024-09-08T11:54:57.241+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:54:57.242+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:54:58.446+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.235 seconds (process running for 343.516)
+2024-09-08T11:55:38.426+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:55:38.426+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:55:39.903+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.523 seconds (process running for 384.973)
+2024-09-08T11:55:53.498+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:55:53.499+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:55:54.738+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.269 seconds (process running for 399.807)
+2024-09-08T11:56:07.381+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T11:56:07.382+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T11:56:08.923+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.582 seconds (process running for 413.993)
+2024-09-08T12:03:18.201+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:03:18.201+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:03:19.684+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.513 seconds (process running for 844.751)
+2024-09-08T12:03:45.452+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:03:45.454+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:03:47.187+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.779 seconds (process running for 872.254)
+2024-09-08T12:03:48.653+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:03:48.653+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:03:49.976+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.352 seconds (process running for 875.043)
+2024-09-08T12:04:45.078+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:04:45.079+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:04:46.535+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.496 seconds (process running for 931.601)
+2024-09-08T12:04:48.012+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:04:48.012+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:04:49.238+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.253 seconds (process running for 934.304)
+2024-09-08T12:05:08.946+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:05:08.947+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:05:10.514+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.599 seconds (process running for 955.58)
+2024-09-08T12:05:25.151+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 32896 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:05:25.151+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:05:26.352+02:00  INFO 32896 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.229 seconds (process running for 971.418)
+2024-09-08T12:06:30.822+02:00  INFO 33344 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33344 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:06:30.824+02:00  INFO 33344 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:06:37.472+02:00  INFO 33344 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.149 seconds (process running for 8.116)
+2024-09-08T12:07:14.305+02:00 ERROR 33344 --- [http-nio-8080-exec-3] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.InvalidUsernameOrPassword
+
+org.springframework.security.authentication.BadCredentialsException: ApiMessages.InvalidUsernameOrPassword
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticateByUsernameAndPassword(RestAuthenticationProvider.java:68) ~[classes/:na]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticate(RestAuthenticationProvider.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider$$SpringCGLIB$$0.authenticate(<generated>) ~[classes/:na]
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182) ~[spring-security-core-6.3.0.jar:6.3.0]
+	at com.dogan.bilisim.auth.rest.RestLoginProcessingFilter.attemptAuthentication(RestLoginProcessingFilter.java:68) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-08T12:09:08.283+02:00  INFO 33435 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33435 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:09:08.285+02:00  INFO 33435 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:09:09.095+02:00 ERROR 33435 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: @Bean method 'addInterceptors' must not be declared as void; change the method's return type or its annotation.
+Offending resource: class path resource [com/dogan/bilisim/config/WebSecurityConfig.class]
+	at org.springframework.beans.factory.parsing.FailFastProblemReporter.error(FailFastProblemReporter.java:72) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.BeanMethod.validate(BeanMethod.java:47) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClass.validate(ConfigurationClass.java:219) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassParser.validate(ConfigurationClassParser.java:206) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:418) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:788) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:606) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.0.jar:3.3.0]
+	at com.dogan.bilisim.RestApplication.main(RestApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
+
+2024-09-08T12:13:05.786+02:00  INFO 33528 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33528 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:13:05.788+02:00  INFO 33528 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:13:12.362+02:00  INFO 33528 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.2 seconds (process running for 8.132)
+2024-09-08T12:13:17.297+02:00 ERROR 33528 --- [http-nio-8080-exec-2] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.InvalidUsernameOrPassword
+
+org.springframework.security.authentication.BadCredentialsException: ApiMessages.InvalidUsernameOrPassword
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticateByUsernameAndPassword(RestAuthenticationProvider.java:68) ~[classes/:na]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticate(RestAuthenticationProvider.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider$$SpringCGLIB$$0.authenticate(<generated>) ~[classes/:na]
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182) ~[spring-security-core-6.3.0.jar:6.3.0]
+	at com.dogan.bilisim.auth.rest.RestLoginProcessingFilter.attemptAuthentication(RestLoginProcessingFilter.java:68) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-08T12:13:33.789+02:00 ERROR 33528 --- [http-nio-8080-exec-4] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.InvalidUsernameOrPassword
+
+org.springframework.security.authentication.BadCredentialsException: ApiMessages.InvalidUsernameOrPassword
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticateByUsernameAndPassword(RestAuthenticationProvider.java:68) ~[classes/:na]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider.authenticate(RestAuthenticationProvider.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.auth.rest.RestAuthenticationProvider$$SpringCGLIB$$0.authenticate(<generated>) ~[classes/:na]
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182) ~[spring-security-core-6.3.0.jar:6.3.0]
+	at com.dogan.bilisim.auth.rest.RestLoginProcessingFilter.attemptAuthentication(RestLoginProcessingFilter.java:68) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-08T12:15:23.745+02:00  INFO 33588 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33588 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:15:23.748+02:00  INFO 33588 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:15:29.716+02:00  INFO 33588 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.497 seconds (process running for 7.23)
+2024-09-08T12:18:27.293+02:00  INFO 33655 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33655 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:18:27.295+02:00  INFO 33655 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:18:33.361+02:00  INFO 33655 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.559 seconds (process running for 7.28)
+2024-09-08T12:22:18.802+02:00  INFO 33655 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33655 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:22:18.803+02:00  INFO 33655 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:22:20.342+02:00  INFO 33655 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.575 seconds (process running for 234.261)
+2024-09-08T12:22:33.537+02:00  INFO 33778 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33778 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:22:33.540+02:00  INFO 33778 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:22:39.953+02:00  INFO 33778 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.001 seconds (process running for 8.131)
+2024-09-08T12:23:00.826+02:00  INFO 33796 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33796 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:23:00.828+02:00  INFO 33796 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:23:06.806+02:00  INFO 33796 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.457 seconds (process running for 7.143)
+2024-09-08T12:28:20.032+02:00  INFO 33928 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33928 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:28:20.035+02:00  INFO 33928 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:28:26.162+02:00  INFO 33928 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.67 seconds (process running for 7.517)
+2024-09-08T12:28:29.373+02:00  INFO 33938 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33938 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:28:29.375+02:00  INFO 33938 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:28:34.799+02:00  INFO 33938 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.895 seconds (process running for 6.559)
+2024-09-08T12:29:09.435+02:00  INFO 33954 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 33954 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:29:09.438+02:00  INFO 33954 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:29:16.225+02:00  INFO 33954 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.41 seconds (process running for 8.242)
+2024-09-08T12:33:02.583+02:00  INFO 34032 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34032 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:33:02.585+02:00  INFO 34032 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:33:03.318+02:00 ERROR 34032 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: @Bean method 'addInterceptors' must not be declared as void; change the method's return type or its annotation.
+Offending resource: class path resource [com/dogan/bilisim/interceptor/InterceptorConfig.class]
+	at org.springframework.beans.factory.parsing.FailFastProblemReporter.error(FailFastProblemReporter.java:72) ~[spring-beans-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.BeanMethod.validate(BeanMethod.java:47) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClass.validate(ConfigurationClass.java:219) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassParser.validate(ConfigurationClassParser.java:206) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:418) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:788) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:606) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.0.jar:3.3.0]
+	at com.dogan.bilisim.RestApplication.main(RestApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
+
+2024-09-08T12:37:03.274+02:00  INFO 34127 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34127 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:37:03.276+02:00  INFO 34127 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:37:09.479+02:00  INFO 34127 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.687 seconds (process running for 7.393)
+2024-09-08T12:39:26.356+02:00  INFO 34184 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34184 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:39:26.358+02:00  INFO 34184 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:39:32.333+02:00  INFO 34184 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.451 seconds (process running for 7.15)
+2024-09-08T12:39:41.096+02:00  INFO 34190 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34190 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:39:41.099+02:00  INFO 34190 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:39:59.462+02:00  INFO 34190 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 18.847 seconds (process running for 19.562)
+2024-09-08T12:41:06.669+02:00  INFO 34232 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34232 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:41:06.673+02:00  INFO 34232 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:41:12.818+02:00  INFO 34232 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.683 seconds (process running for 7.413)
+2024-09-08T12:41:27.436+02:00  INFO 34242 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34242 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:41:27.438+02:00  INFO 34242 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:41:33.220+02:00  INFO 34242 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.269 seconds (process running for 7.035)
+2024-09-08T12:42:04.638+02:00 ERROR 34242 --- [http-nio-8080-exec-1] c.d.b.e.FlowCrmErrorResponseHandler      : ApiMessages.AuthorizationHeaderCannotBeBlank
+
+com.dogan.bilisim.service.auth.exception.FlowCrmSecurityException: ApiMessages.AuthorizationHeaderCannotBeBlank
+	at com.dogan.bilisim.service.auth.jwt.JwtHeaderTokenExtractor.extract(JwtHeaderTokenExtractor.java:20) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.service.auth.jwt.JwtHeaderTokenExtractor$$SpringCGLIB$$0.extract(<generated>) ~[classes/:na]
+	at com.dogan.bilisim.auth.jwt.JwtTokenAuthenticationProcessingFilter.attemptAuthentication(JwtTokenAuthenticationProcessingFilter.java:45) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-08T12:42:48.424+02:00 ERROR 34242 --- [http-nio-8080-exec-3] c.d.b.e.FlowCrmErrorResponseHandler      : Invalid Base64Url JWE Initialization Vector: XCGs4q0z4ncvor6LwOnrPx1YCTQhjm7N8rtGgAxQdhpLLjcPXPeLqg7te4a_hADlxKQxOujyWXGapWytaZR5FROjWqVybWqmurX32wFVALf3KAvUJ-E4AQKvurZ10SatFEhSwbllYKPko4PCLHC3tbNe8Uu1A-iGsm7bNsyIf-6kPvqD-fsDvMmFcHW0WetzBaPXwaCdc4eoHDg-CmUI6WAkM8TpBQOGNjeecXsrQw5--EtS95QjWZInhJKbKKe1J92Ls2fHL4RM61nzTdkIh8v8Re3skZ5lUiKxUNtepbb7Ak0RIrVRh4a2CqynXNGJ8hAjIsl5MDAIcSRQ5K2JNQ","refreshToken":"eyJhbGciOiJSUzI1NiJ9
+
+com.dogan.bilisim.service.auth.exception.FlowCrmSecurityException: Invalid Base64Url JWE Initialization Vector: XCGs4q0z4ncvor6LwOnrPx1YCTQhjm7N8rtGgAxQdhpLLjcPXPeLqg7te4a_hADlxKQxOujyWXGapWytaZR5FROjWqVybWqmurX32wFVALf3KAvUJ-E4AQKvurZ10SatFEhSwbllYKPko4PCLHC3tbNe8Uu1A-iGsm7bNsyIf-6kPvqD-fsDvMmFcHW0WetzBaPXwaCdc4eoHDg-CmUI6WAkM8TpBQOGNjeecXsrQw5--EtS95QjWZInhJKbKKe1J92Ls2fHL4RM61nzTdkIh8v8Re3skZ5lUiKxUNtepbb7Ak0RIrVRh4a2CqynXNGJ8hAjIsl5MDAIcSRQ5K2JNQ","refreshToken":"eyJhbGciOiJSUzI1NiJ9
+	at com.dogan.bilisim.auth.jwt.JwtTokenAuthenticationProcessingFilter.attemptAuthentication(JwtTokenAuthenticationProcessingFilter.java:50) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-08T12:44:32.079+02:00  INFO 34313 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34313 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:44:32.082+02:00  INFO 34313 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:44:38.064+02:00  INFO 34313 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.489 seconds (process running for 7.152)
+2024-09-08T12:44:46.140+02:00  INFO 34323 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34323 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:44:46.142+02:00  INFO 34323 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:45:12.607+02:00  INFO 34323 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 26.923 seconds (process running for 27.642)
+2024-09-08T12:45:47.892+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:45:47.895+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:45:54.573+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.361 seconds (process running for 8.07)
+2024-09-08T12:46:45.614+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:46:45.615+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:46:46.092+02:00 ERROR 34352 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Unable to load cache item
+	at org.springframework.cglib.core.internal.LoadingCache.createEntry(LoadingCache.java:75) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.internal.LoadingCache.get(LoadingCache.java:34) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.AbstractClassGenerator$ClassLoaderData.get(AbstractClassGenerator.java:130) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:317) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:562) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:407) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:147) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:112) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:534) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:311) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:363) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:153) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:788) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:606) ~[spring-context-6.1.8.jar:6.1.8]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.0.jar:3.3.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.0.jar:3.3.0]
+	at com.dogan.bilisim.RestApplication.main(RestApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
+Caused by: java.lang.NoClassDefFoundError: com/dogan/bilisim/interceptor/RequestLoggingInterceptor
+	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3373) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredConstructors(Class.java:2555) ~[na:na]
+	at org.springframework.cglib.proxy.Enhancer.generateClass(Enhancer.java:655) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.transform.TransformingClassGenerator.generateClass(TransformingClassGenerator.java:35) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:26) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.ClassLoaderAwareGeneratorStrategy.generate(ClassLoaderAwareGeneratorStrategy.java:57) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.AbstractClassGenerator.generate(AbstractClassGenerator.java:366) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.proxy.Enhancer.generate(Enhancer.java:575) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.AbstractClassGenerator$ClassLoaderData.lambda$new$1(AbstractClassGenerator.java:107) ~[spring-core-6.1.8.jar:6.1.8]
+	at org.springframework.cglib.core.internal.LoadingCache.lambda$createEntry$1(LoadingCache.java:52) ~[spring-core-6.1.8.jar:6.1.8]
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java) ~[na:na]
+	at org.springframework.cglib.core.internal.LoadingCache.createEntry(LoadingCache.java:57) ~[spring-core-6.1.8.jar:6.1.8]
+	... 25 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.dogan.bilisim.interceptor.RequestLoggingInterceptor
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[na:na]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:467) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121) ~[spring-boot-devtools-3.3.0.jar:3.3.0]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[na:na]
+	... 39 common frames omitted
+
+2024-09-08T12:48:41.761+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:48:41.763+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:48:43.184+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.46 seconds (process running for 176.681)
+2024-09-08T12:57:20.842+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:57:20.843+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:57:22.596+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.813 seconds (process running for 696.059)
+2024-09-08T12:57:24.086+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:57:24.087+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:57:25.431+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.376 seconds (process running for 698.894)
+2024-09-08T12:57:39.036+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:57:39.036+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:57:40.753+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.746 seconds (process running for 714.216)
+2024-09-08T12:59:24.342+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T12:59:24.342+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T12:59:25.639+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.332 seconds (process running for 819.101)
+2024-09-08T13:00:30.821+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34352 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T13:00:30.822+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T13:00:32.259+02:00  INFO 34352 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.471 seconds (process running for 885.721)
+2024-09-08T13:02:33.202+02:00  INFO 34746 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34746 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T13:02:33.205+02:00  INFO 34746 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T13:02:39.105+02:00  INFO 34746 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.396 seconds (process running for 7.099)
+2024-09-08T13:02:46.885+02:00  INFO 34759 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34759 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T13:02:46.888+02:00  INFO 34759 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T13:02:52.182+02:00  INFO 34759 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 5.734 seconds (process running for 6.378)
+2024-09-08T13:04:50.248+02:00  INFO 34759 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34759 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T13:04:50.249+02:00  INFO 34759 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T13:04:51.704+02:00  INFO 34759 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 1.494 seconds (process running for 125.899)
+2024-09-08T13:05:08.094+02:00 ERROR 34759 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+
+io.jsonwebtoken.MalformedJwtException: Invalid Base64Url JWE Initialization Vector: XCGs4q0z4ncvor6LwOnrPx1YCTQhjm7N8rtGgAxQdhpLLjcPXPeLqg7te4a_hADlxKQxOujyWXGapWytaZR5FROjWqVybWqmurX32wFVALf3KAvUJ-E4AQKvurZ10SatFEhSwbllYKPko4PCLHC3tbNe8Uu1A-iGsm7bNsyIf-6kPvqD-fsDvMmFcHW0WetzBaPXwaCdc4eoHDg-CmUI6WAkM8TpBQOGNjeecXsrQw5--EtS95QjWZInhJKbKKe1J92Ls2fHL4RM61nzTdkIh8v8Re3skZ5lUiKxUNtepbb7Ak0RIrVRh4a2CqynXNGJ8hAjIsl5MDAIcSRQ5K2JNQ","refreshToken":"eyJhbGciOiJSUzI1NiJ9
+	at io.jsonwebtoken.impl.DefaultJwtParser.decode(DefaultJwtParser.java:882) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:506) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:362) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:94) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.io.AbstractParser.parse(AbstractParser.java:36) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.io.AbstractParser.parse(AbstractParser.java:29) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseSignedClaims(DefaultJwtParser.java:821) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at com.dogan.bilisim.service.auth.util.JwtUtil.getBody(JwtUtil.java:50) ~[classes/:na]
+	at com.dogan.bilisim.interceptor.RequestLoggingInterceptor.extractUserIdFromToken(RequestLoggingInterceptor.java:65) ~[classes/:na]
+	at com.dogan.bilisim.interceptor.RequestLoggingInterceptor.preHandle(RequestLoggingInterceptor.java:36) ~[classes/:na]
+	at com.dogan.bilisim.interceptor.RequestLoggingFilter.doFilterInternal(RequestLoggingFilter.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.interceptor.RequestLoggingFilter$$SpringCGLIB$$0.doFilterInternal(<generated>) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+Caused by: io.jsonwebtoken.io.DecodingException: Unable to Base64Url-decode InputStream: Illegal base64url character: '"'
+	at io.jsonwebtoken.impl.io.DelegateStringDecoder.decode(DelegateStringDecoder.java:43) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.io.DelegateStringDecoder.decode(DelegateStringDecoder.java:25) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.DefaultJwtParser.decode(DefaultJwtParser.java:876) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	... 77 common frames omitted
+Caused by: io.jsonwebtoken.io.DecodingException: Illegal base64url character: '"'
+	at io.jsonwebtoken.io.Base64.ctoi(Base64.java:221) ~[jjwt-api-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.io.Base64.decodeFast(Base64.java:271) ~[jjwt-api-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.io.Base64Decoder.decode(Base64Decoder.java:39) ~[jjwt-api-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.io.Base64Decoder.decode(Base64Decoder.java:26) ~[jjwt-api-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.io.ExceptionPropagatingDecoder.decode(ExceptionPropagatingDecoder.java:52) ~[jjwt-api-0.12.5.jar:0.12.5]
+	at io.jsonwebtoken.impl.io.DelegateStringDecoder.decode(DelegateStringDecoder.java:39) ~[jjwt-impl-0.12.5.jar:0.12.5]
+	... 79 common frames omitted
+
+2024-09-08T13:05:08.120+02:00 ERROR 34759 --- [http-nio-8080-exec-2] c.d.b.e.FlowCrmErrorResponseHandler      : Invalid Base64Url JWE Initialization Vector: XCGs4q0z4ncvor6LwOnrPx1YCTQhjm7N8rtGgAxQdhpLLjcPXPeLqg7te4a_hADlxKQxOujyWXGapWytaZR5FROjWqVybWqmurX32wFVALf3KAvUJ-E4AQKvurZ10SatFEhSwbllYKPko4PCLHC3tbNe8Uu1A-iGsm7bNsyIf-6kPvqD-fsDvMmFcHW0WetzBaPXwaCdc4eoHDg-CmUI6WAkM8TpBQOGNjeecXsrQw5--EtS95QjWZInhJKbKKe1J92Ls2fHL4RM61nzTdkIh8v8Re3skZ5lUiKxUNtepbb7Ak0RIrVRh4a2CqynXNGJ8hAjIsl5MDAIcSRQ5K2JNQ","refreshToken":"eyJhbGciOiJSUzI1NiJ9
+
+com.dogan.bilisim.service.auth.exception.FlowCrmSecurityException: Invalid Base64Url JWE Initialization Vector: XCGs4q0z4ncvor6LwOnrPx1YCTQhjm7N8rtGgAxQdhpLLjcPXPeLqg7te4a_hADlxKQxOujyWXGapWytaZR5FROjWqVybWqmurX32wFVALf3KAvUJ-E4AQKvurZ10SatFEhSwbllYKPko4PCLHC3tbNe8Uu1A-iGsm7bNsyIf-6kPvqD-fsDvMmFcHW0WetzBaPXwaCdc4eoHDg-CmUI6WAkM8TpBQOGNjeecXsrQw5--EtS95QjWZInhJKbKKe1J92Ls2fHL4RM61nzTdkIh8v8Re3skZ5lUiKxUNtepbb7Ak0RIrVRh4a2CqynXNGJ8hAjIsl5MDAIcSRQ5K2JNQ","refreshToken":"eyJhbGciOiJSUzI1NiJ9
+	at com.dogan.bilisim.auth.jwt.JwtTokenAuthenticationProcessingFilter.attemptAuthentication(JwtTokenAuthenticationProcessingFilter.java:50) ~[classes/:na]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:632) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:410) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:330) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:267) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:362) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:222) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:308) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:149) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-08T13:06:33.383+02:00 ERROR 34759 --- [http-nio-8080-exec-6] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+
+java.lang.NumberFormatException: For input string: "systemAdmin"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[na:na]
+	at java.base/java.lang.Long.parseLong(Long.java:711) ~[na:na]
+	at java.base/java.lang.Long.parseLong(Long.java:836) ~[na:na]
+	at com.dogan.bilisim.interceptor.RequestLoggingInterceptor.extractUserIdFromToken(RequestLoggingInterceptor.java:66) ~[classes/:na]
+	at com.dogan.bilisim.interceptor.RequestLoggingInterceptor.preHandle(RequestLoggingInterceptor.java:36) ~[classes/:na]
+	at com.dogan.bilisim.interceptor.RequestLoggingFilter.doFilterInternal(RequestLoggingFilter.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354) ~[spring-aop-6.1.8.jar:6.1.8]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:716) ~[spring-aop-6.1.8.jar:6.1.8]
+	at com.dogan.bilisim.interceptor.RequestLoggingFilter$$SpringCGLIB$$0.doFilterInternal(<generated>) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.0.jar:6.3.0]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.8.jar:6.1.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.24.jar:10.1.24]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-09-08T13:07:45.335+02:00  INFO 34874 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 34874 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-08T13:07:45.338+02:00  INFO 34874 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-08T13:07:51.146+02:00  INFO 34874 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.282 seconds (process running for 7.009)

@@ -5,6 +5,31 @@ import App from './app/App';
 import 'primereact/resources/themes/saga-blue/theme.css';
 import 'primereact/resources/primereact.min.css';
 import 'primeicons/primeicons.css';
+import axios from 'axios';
+import authService from "./app/services/AuthService";
+
+
+axios.interceptors.response.use(response => {
+    return response;
+}, error => {
+    if (error.response.status === 401) {
+        authService.logout();
+        window.location.href = '/auth/login';
+    }
+    return Promise.reject(error);
+});
+
+axios.interceptors.request.use(function (config) {
+    if (!config.url?.includes("wp-json")) {
+        config.headers['Cache-Control'] = "no-cache";
+        config.headers['Cache-Control'] = "no-cache";
+    }
+    return config;
+});
+
+
+
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );

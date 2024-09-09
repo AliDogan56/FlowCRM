@@ -7,11 +7,12 @@ import Dropdown from 'react-bootstrap/Dropdown';
 import DropdownButton from 'react-bootstrap/DropdownButton';
 import {ButtonGroup} from "react-bootstrap";
 import {House, Person, Box, Command, BoxArrowLeft} from 'react-bootstrap-icons';
+import authService from "../../services/auth/AuthService";
 
 
 const NavBarComponent = () => {
     function logout() {
-        console.log("logout")
+        authService.logout();
     }
 
 
@@ -58,7 +59,7 @@ const NavBarComponent = () => {
                         drop={'start'}
                         variant="danger"
                         title={''}>
-                        <Dropdown.Item eventKey="1">
+                        <Dropdown.Item eventKey="1" onClick={logout}>
                             <div style={{display: "inline-flex", alignItems: "center"}}>
                                 <BoxArrowLeft className="header-icon"/>
                                 <span style={{marginLeft: "5px"}}>{'Logout'}</span>

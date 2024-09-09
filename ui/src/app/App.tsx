@@ -8,27 +8,35 @@ import UserListPage from "./pages/user/list/UserListPage";
 import UserDetailPage from "./pages/user/detail/UserDetailPage";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import LoginPage from "./pages/auth/LoginPage";
+import authService from "./services/auth/AuthService";
 
 function App() {
     const baseRoute = "/";
 
-    return (
-        <BrowserRouter>
-            <Navbar/>
+    const isAuthenticated = authService.isAuthenticated();
 
-            <main className="main-content">
-                <Routes>
-                    <Route path={baseRoute + appRoutes.main} element={<HomePage/>}/>
-                    <Route path={baseRoute + appRoutes.auth.login} element={<LoginPage/>}/>
-                    <Route path={baseRoute + appRoutes.user.systemowner.list} element={<UserListPage/>}/>
-                    <Route path={baseRoute + appRoutes.user.systemowner.detail} element={<UserDetailPage/>}/>
-                    <Route path={baseRoute + appRoutes.user.systemadmin.list} element={<UserListPage/>}/>
-                    <Route path={baseRoute + appRoutes.user.systemadmin.detail} element={<UserDetailPage/>}/>
-                    <Route path={baseRoute + appRoutes.user.customer.list} element={<UserListPage/>}/>
-                    <Route path={baseRoute + appRoutes.user.customer.detail} element={<UserDetailPage/>}/>
-                </Routes>
-            </main>
-        </BrowserRouter>
+    return (
+        <>
+            {isAuthenticated ? (
+                <BrowserRouter>
+                    <Navbar />
+                    <main className="main-content">
+                        <Routes>
+                            <Route path={baseRoute + appRoutes.main} element={<HomePage />} />
+                            <Route path={baseRoute + appRoutes.auth.login} element={<LoginPage />} />
+                            <Route path={baseRoute + appRoutes.user.systemowner.list} element={<UserListPage />} />
+                            <Route path={baseRoute + appRoutes.user.systemowner.detail} element={<UserDetailPage />} />
+                            <Route path={baseRoute + appRoutes.user.systemadmin.list} element={<UserListPage />} />
+                            <Route path={baseRoute + appRoutes.user.systemadmin.detail} element={<UserDetailPage />} />
+                            <Route path={baseRoute + appRoutes.user.customer.list} element={<UserListPage />} />
+                            <Route path={baseRoute + appRoutes.user.customer.detail} element={<UserDetailPage />} />
+                        </Routes>
+                    </main>
+                </BrowserRouter>
+            ) : (
+                <LoginPage />
+            )}
+        </>
     );
 }
 

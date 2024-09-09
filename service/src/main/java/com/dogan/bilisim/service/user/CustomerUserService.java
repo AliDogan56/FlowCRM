@@ -100,7 +100,7 @@ public class CustomerUserService {
         return customerUserEntityDtoConverter.toCustomerUserDTO(customerUser);
     }
 
-    public Page<CustomerUserDTO> searchCustomerUsers(String firstName, String lastName, String region, String email, ZonedDateTime createdAt, Pageable pageable) {
+    public Page<CustomerUserDTO> searchCustomerUsers(String firstName, String lastName, String region, String email, Pageable pageable) {
         List<CustomerUser> customerUsers = (List<CustomerUser>) customerUserRepository.findAll();
 
         List<CustomerUserDTO> customerUserDTOS = new ArrayList<>();

@@ -71,7 +71,6 @@ public class CustomerUserController {
             @RequestParam(required = false) String lastName,
             @RequestParam(required = false) String region,
             @RequestParam(required = false) String email,
-            @RequestParam(required = false) @DateTimeFormat(iso = DateTimeFormat.ISO.DATE_TIME) ZonedDateTime createdAt,
             @RequestParam(required = false, defaultValue = "0") int page,
             @RequestParam(required = false, defaultValue = "16") int pageSize,
             @RequestParam(required = false, defaultValue = "id") String orderProperty,
@@ -84,7 +83,6 @@ public class CustomerUserController {
                 lastName,
                 region,
                 email,
-                createdAt,
                 PageRequest.of(page, pageSize,
                         PageUtil.INSTANCE.toSort(sortOrder)));
 

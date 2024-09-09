@@ -5,7 +5,9 @@ import {UserRole} from "../../model/user/AppUserModel";
 
 const API_URL = window.config.baseApiUrl;
 
+
 const login = async (username: string, password: string) => {
+
     const response = await axios
         .post(API_URL + "/auth/login", {
             username,
@@ -13,6 +15,7 @@ const login = async (username: string, password: string) => {
         });
     if (response.data.token) {
         localStorage.setItem("token", JSON.stringify(response.data));
+        window.location.href = "/";
     }
 };
 
@@ -35,6 +38,8 @@ const isCustomer = (): boolean => {
 }
 const logout = () => {
     localStorage.removeItem("token");
+    window.location.href = "/auth/login";
+
 };
 
 const getCurrentUser = () => {

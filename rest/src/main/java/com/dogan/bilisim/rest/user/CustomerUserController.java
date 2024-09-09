@@ -29,7 +29,7 @@ import java.time.ZonedDateTime;
 
 @RestController
 @AllArgsConstructor
-@RequestMapping("/api/v1/customer-user")
+@RequestMapping("/api/v1/customer")
 public class CustomerUserController {
 
     private final CustomerUserService customerUserService;
@@ -84,6 +84,7 @@ public class CustomerUserController {
                 lastName,
                 region,
                 email,
+                createdAt,
                 PageRequest.of(page, pageSize,
                         PageUtil.INSTANCE.toSort(sortOrder)));
 

@@ -1,6 +1,6 @@
 import axios from "axios";
 import {jwtDecode} from "jwt-decode";
-import {UserRole} from "../model/user/UserModel";
+import {UserRole} from "../../model/user/AppUserModel";
 
 
 const API_URL = window.config.baseApiUrl;

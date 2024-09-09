@@ -5,6 +5,8 @@ import authService from "../../../services/auth/AuthService";
 import {Button} from "react-bootstrap"
 import {CustomerUserModel, CustomerUserSearchDTO} from "../../../model/user/CustomerUserModel";
 import {UserRole} from "../../../model/user/AppUserModel";
+import userService from "../../../services/user/UserService";
+import {toast} from "react-toastify";
 
 const UserListPage = () => {
     const userType = new URL(window.location.href).pathname.toString().split("/")[2];
@@ -17,11 +19,6 @@ const UserListPage = () => {
         {
             Header: "Id",
             accessor: 'id',
-            Cell: ({value}: any) => (<span>{value}</span>)
-        },
-        {
-            Header: "Created At",
-            accessor: 'createdAt',
             Cell: ({value}: any) => (<span>{value}</span>)
         },
         {
@@ -80,11 +77,6 @@ const UserListPage = () => {
         {
             Header: "Id",
             accessor: 'id',
-            Cell: ({value}: any) => (<span>{value}</span>)
-        },
-        {
-            Header: "Created At",
-            accessor: 'createdAt',
             Cell: ({value}: any) => (<span>{value}</span>)
         },
         {
@@ -168,12 +160,12 @@ const UserListPage = () => {
             }
         ];
         setUserData(fakeData);
-        /*userService.search(userType, searchData).then(response => {
+        userService.search(userType, searchData).then(response => {
                 setUserData(response.data);
             },
             error => {
                 toast.error(error.response.data.message ? error.response.data.message.interpolateError() : error.message.interpolateError());
-            });*/
+            });
     };
 
 

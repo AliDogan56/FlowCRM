@@ -5,13 +5,16 @@ import Card from 'react-bootstrap/Card';
 import authService from "../../services/auth/AuthService";
 
 const HomePage = () => {
+    const isAdminOrOwner = authService.isSystemAdminOrOwner();
 
 
     return <>
         <Container>
             <Row>
-                {authService.isSystemAdminOrOwner() &&
-                    <Col>
+                {isAdminOrOwner &&
+                    <Col onClick={() => {
+                        window.location.href = "/user/systemowner/list";
+                    }}>
                         <Card style={{width: '18rem'}}>
                             <Card.Img variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
                             <Card.Body>
@@ -24,8 +27,10 @@ const HomePage = () => {
                     </Col>
                 }
 
-                {authService.isSystemAdminOrOwner() &&
-                    <Col>
+                {isAdminOrOwner &&
+                    <Col onClick={() => {
+                        window.location.href = "/user/systemadmin/list";
+                    }}>
                         <Card style={{width: '18rem'}}>
                             <Card.Img variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
                             <Card.Body>
@@ -37,7 +42,9 @@ const HomePage = () => {
                         </Card>
                     </Col>
                 }
-                <Col>
+                <Col onClick={() => {
+                    window.location.href = "/user/customer/list";
+                }}>
                     <Card style={{width: '18rem'}}>
                         <Card.Img variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
                         <Card.Body>

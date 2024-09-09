@@ -11,6 +11,9 @@ import authService from "../../services/auth/AuthService";
 
 
 const NavBarComponent = () => {
+
+    const isOwnerOrAdmin = authService.isSystemAdminOrOwner();
+
     function logout() {
         authService.logout();
     }
@@ -35,18 +38,22 @@ const NavBarComponent = () => {
                                 <span style={{marginLeft: "5px"}}>{'Home'}</span>
                             </div>
                         </Nav.Link>
-                        <Nav.Link href="/user/systemowner/list">
-                            <div style={{display: "inline-flex", alignItems: "center"}}>
-                                <Person className="header-icon" color="royalblue"/>
-                                <span style={{marginLeft: "5px"}}>{'System Owner'}</span>
-                            </div>
-                        </Nav.Link>
-                        <Nav.Link href="/user/systemadmin/list">
-                            <div style={{display: "inline-flex", alignItems: "center"}}>
-                                <Box className="header-icon" color="royalblue"/>
-                                <span style={{marginLeft: "5px"}}>{'System Admins'}</span>
-                            </div>
-                        </Nav.Link>
+                        {isOwnerOrAdmin &&
+                            <Nav.Link href="/user/systemowner/list">
+                                <div style={{display: "inline-flex", alignItems: "center"}}>
+                                    <Person className="header-icon" color="royalblue"/>
+                                    <span style={{marginLeft: "5px"}}>{'System Owner'}</span>
+                                </div>
+                            </Nav.Link>
+                        }
+                        {isOwnerOrAdmin &&
+                            <Nav.Link href="/user/systemadmin/list">
+                                <div style={{display: "inline-flex", alignItems: "center"}}>
+                                    <Box className="header-icon" color="royalblue"/>
+                                    <span style={{marginLeft: "5px"}}>{'System Admins'}</span>
+                                </div>
+                            </Nav.Link>
+                        }
                         <Nav.Link href="/user/customer/list">
                             <div style={{display: "inline-flex", alignItems: "center"}}>
                                 <Command className="header-icon" color="royalblue"/>

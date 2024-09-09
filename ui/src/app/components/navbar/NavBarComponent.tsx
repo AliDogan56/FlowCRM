@@ -9,7 +9,7 @@ import {ButtonGroup} from "react-bootstrap";
 import {House, Person, Box, Command, BoxArrowLeft} from 'react-bootstrap-icons';
 
 
-const NavBar = () => {
+const NavBarComponent = () => {
     function logout() {
         console.log("logout")
     }
@@ -72,5 +72,5 @@ const NavBar = () => {
         </Navbar>
     )
 }
-export default NavBar
+export default NavBarComponent
         

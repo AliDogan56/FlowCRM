@@ -2,17 +2,21 @@ import React from 'react';
 import logo from '../../../assets/images/logo.svg';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
+import Button from 'react-bootstrap/Button';
 import Navbar from 'react-bootstrap/Navbar';
 import Dropdown from 'react-bootstrap/Dropdown';
 import DropdownButton from 'react-bootstrap/DropdownButton';
 import {ButtonGroup} from "react-bootstrap";
-import {House, Person, Box, Command, BoxArrowLeft} from 'react-bootstrap-icons';
+import {House, Person, Box, Command, BoxArrowLeft, ArrowLeft} from 'react-bootstrap-icons';
 import authService from "../../services/auth/AuthService";
+import {useNavigate} from "react-router-dom";
 
 
 const NavBarComponent = () => {
 
     const isOwnerOrAdmin = authService.isSystemAdminOrOwner();
+    const navigate = useNavigate();
+
 
     function logout() {
         authService.logout();
@@ -61,18 +65,29 @@ const NavBarComponent = () => {
                             </div>
                         </Nav.Link>
                     </Nav>
-                    <DropdownButton
-                        as={ButtonGroup}
-                        drop={'start'}
-                        variant="danger"
-                        title={''}>
-                        <Dropdown.Item eventKey="1" onClick={logout}>
-                            <div style={{display: "inline-flex", alignItems: "center"}}>
-                                <BoxArrowLeft className="header-icon"/>
-                                <span style={{marginLeft: "5px"}}>{'Logout'}</span>
-                            </div>
-                        </Dropdown.Item>
-                    </DropdownButton>
+                    <div style={{display: "flex", alignItems: "center"}}>
+                        <Button variant="warning"
+                                onClick={() => navigate(-1)}
+                                style={{marginRight: "10px", display: "inline-flex", alignItems: "center"}}>
+                            <ArrowLeft style={{marginRight: "5px"}}/>
+                            Back
+                        </Button>
+
+                        <DropdownButton
+                            as={ButtonGroup}
+                            drop={'start'}
+                            variant="danger"
+                            title=""
+                        >
+                            <Dropdown.Item eventKey="1" onClick={logout}>
+                                <div style={{display: "inline-flex", alignItems: "center"}}>
+                                    <BoxArrowLeft className="header-icon"/>
+                                    <span style={{marginLeft: "5px"}}>Logout</span>
+                                </div>
+                            </Dropdown.Item>
+                        </DropdownButton>
+                    </div>
+
 
                 </Navbar.Collapse>
 

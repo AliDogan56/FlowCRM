@@ -4,7 +4,6 @@ import Table from 'react-bootstrap/Table';
 interface TableProps {
     columns: any[];
     data: any[];
-    onDelete?: (id: string | number) => void;
     showActions: boolean;
 
 }

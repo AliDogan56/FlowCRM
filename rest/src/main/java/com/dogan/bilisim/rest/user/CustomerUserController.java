@@ -50,17 +50,17 @@ public class CustomerUserController {
 
     @PreAuthorize("hasAnyAuthority('SYSTEM_ADMIN')")
     @Operation(summary = "Delete Customer User By Id", security = @SecurityRequirement(name = "bearer"))
-    @DeleteMapping("/{customerUserId}")
-    public ResponseEntity<?> deleteCustomerUser(@PathVariable("customerUserId") Long customerUserId) {
-        customerUserService.deleteCustomerUser(customerUserId);
+    @DeleteMapping("/{userId}")
+    public ResponseEntity<?> deleteCustomerUser(@PathVariable("userId") Long userId) {
+        customerUserService.deleteCustomerUser(userId);
         return ResponseEntity.ok().build();
     }
 
     @PreAuthorize("hasAnyAuthority('CUSTOMER')")
     @Operation(summary = "Find Customer User By Id", security = @SecurityRequirement(name = "bearer"))
-    @GetMapping("/{customerUserId}")
-    public ResponseEntity<CustomerUserDTO> findCustomerUserById(@PathVariable("customerUserId") Long customerUserId) {
-        return ResponseEntity.ok(customerUserService.findCustomerUserById(customerUserId));
+    @GetMapping("/{userId}")
+    public ResponseEntity<CustomerUserDTO> findCustomerUserById(@PathVariable("userId") Long userId) {
+        return ResponseEntity.ok(customerUserService.findCustomerUserById(userId));
     }
 
     @Operation(summary = "Search Customer User")

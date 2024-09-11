@@ -26,10 +26,13 @@ function App() {
                             <Route path={baseRoute + appRoutes.auth.login} element={<LoginPage />} />
                             <Route path={baseRoute + appRoutes.user.systemowner.list} element={<UserListPage />} />
                             <Route path={baseRoute + appRoutes.user.systemowner.detail} element={<UserDetailPage />} />
+                            <Route path={baseRoute + appRoutes.user.systemowner.create} element={<UserDetailPage />} />
                             <Route path={baseRoute + appRoutes.user.systemadmin.list} element={<UserListPage />} />
                             <Route path={baseRoute + appRoutes.user.systemadmin.detail} element={<UserDetailPage />} />
+                            <Route path={baseRoute + appRoutes.user.systemadmin.create} element={<UserDetailPage />} />
                             <Route path={baseRoute + appRoutes.user.customer.list} element={<UserListPage />} />
                             <Route path={baseRoute + appRoutes.user.customer.detail} element={<UserDetailPage />} />
+                            <Route path={baseRoute + appRoutes.user.customer.create} element={<UserDetailPage />} />
                         </Routes>
                     </main>
                 </BrowserRouter>

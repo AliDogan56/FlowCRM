@@ -7,7 +7,9 @@ import {toast} from "react-toastify";
 import {Form, Button, Row, Col} from 'react-bootstrap';
 import {SortOrder} from "../../../model/base/SortOrderDTO";
 import authService from "../../../services/auth/AuthService";
-import {UserRole} from "../../../model/user/AppUserModel";
+import {appRoutes} from "../../../../routes";
+import {useNavigate} from "react-router-dom";
+import Modal from 'react-bootstrap/Modal';
 
 
 const UserListPage = () => {
@@ -22,6 +24,9 @@ const UserListPage = () => {
     const [sortOrder, setSortOrder] = useState<SortOrder>({fieldName: "id", orderProperty: "id", orderType: "ASC"});
     const [page, setPage] = useState(0);
     const [perPage, setPerPage] = useState(10);
+    const navigate = useNavigate();
+    const [confirmDialogShown, setConfirmDialogShown] = useState<boolean>(false);
+    const [selectedUser, setSelectedUser] = useState<CustomerUserModel>();
 
 
     const customerColumns = [
@@ -65,6 +70,24 @@ const UserListPage = () => {
                         className="btn-table-cell btn-full-back btn-bg-danger"
                         variant="success"
                         onClick={() => {
+                            if (userData) {
+                                const selectedItem = userData.find(item => item.id === value);
+                                let pushRoute;
+                                switch (userType) {
+                                    case 'customer':
+                                        pushRoute = appRoutes.user.customer.detail;
+                                        break;
+                                    case 'systemowner':
+                                        pushRoute = appRoutes.user.systemowner.detail;
+                                        break;
+                                    case 'systemadmin':
+                                        pushRoute = appRoutes.user.systemadmin.detail;
+                                        break;
+                                    default:
+                                        pushRoute = null; // Handle the case where userType doesn't match any case
+                                }
+                                navigate(`/${pushRoute?.toString().replace(":id", selectedItem?.id)}`);
+                            }
                         }}
                     >
                         <Pencil/>
@@ -73,6 +96,9 @@ const UserListPage = () => {
                         className="btn-table-cell btn-full-back btn-bg-danger"
                         variant="danger"
                         onClick={() => {
+                            const selectedItem = userData.find(item => item.id === value);
+                            setSelectedUser(selectedItem);
+                            setConfirmDialogShown(true);
                         }}
                     >
                         <Trash/>
@@ -103,6 +129,24 @@ const UserListPage = () => {
                         className="btn-table-cell btn-full-back btn-bg-danger"
                         variant="success"
                         onClick={() => {
+                            if (userData) {
+                                const selectedItem = userData.find(item => item.id === value);
+                                let pushRoute;
+                                switch (userType) {
+                                    case 'customer':
+                                        pushRoute = appRoutes.user.customer.detail;
+                                        break;
+                                    case 'systemowner':
+                                        pushRoute = appRoutes.user.systemowner.detail;
+                                        break;
+                                    case 'systemadmin':
+                                        pushRoute = appRoutes.user.systemadmin.detail;
+                                        break;
+                                    default:
+                                        pushRoute = null; // Handle the case where userType doesn't match any case
+                                }
+                                navigate(`${pushRoute + selectedItem?.id}`)
+                            }
                         }}
                     >
                         <Pencil/>
@@ -111,6 +155,8 @@ const UserListPage = () => {
                         className="btn-table-cell btn-full-back btn-bg-danger"
                         variant="danger"
                         onClick={() => {
+                            const selectedItem = userData.find(item => item.id === value);
+                            setSelectedUser(selectedItem);
                         }}
                     >
                         <Trash/>
@@ -152,9 +198,69 @@ const UserListPage = () => {
         setSearchData(newSearchData);
     };
 
+    const removeUser = (id: any) => {
+        userService.removeUser(userType,id).then(
+            (response) => {
+                setConfirmDialogShown(false);
+                setSelectedUser(undefined);
+                fetchData();
+                toast.success("SuccessfullyRemoved");
+
+            },
+            error => {
+                toast.error(error.response.data.message ? error.response.data.message.interpolateError() : error.message.interpolateError());
+            });
+    };
+
+    const handleModalClose = () => {
+        setSelectedUser(undefined);
+        setConfirmDialogShown(false);
+    };
+
+    const getUserHeader = () => {
+        let userHeader;
+        switch (userType) {
+            case 'customer':
+                userHeader = 'Customer Users';
+                break;
+            case 'systemowner':
+                userHeader = 'System Owner';
+                break;
+            case 'systemadmin':
+                userHeader = 'System Admins';
+                break;
+            default:
+                userHeader = ''; // Handle the case where userType doesn't match any case
+        }
+        return userHeader;
+    };
+
     return (
         <div className="container mt-4">
-            <h1>Customer Users</h1>
+            <Row className="align-items-center">
+                <Col className="d-flex justify-content-start">
+                    <h1>{getUserHeader()} Users</h1>
+                </Col>
+                <Col className="d-flex justify-content-end">
+                    <Button variant="primary" onClick={()=> {
+                        let pushRoute;
+                        switch (userType) {
+                            case 'customer':
+                                pushRoute = appRoutes.user.customer.create;
+                                break;
+                            case 'systemowner':
+                                pushRoute = appRoutes.user.systemowner.create;
+                                break;
+                            case 'systemadmin':
+                                pushRoute = appRoutes.user.systemadmin.create;
+                                break;
+                            default:
+                                pushRoute = null; // Handle the case where userType doesn't match any case
+                        }
+                        navigate(`/${pushRoute}`);
+                    }}>Add</Button>
+                </Col>
+            </Row>
             {userType === 'customer' &&
                 <Form onSubmit={handleSubmit} className="p-3">
                     <Row className="mb-3">
@@ -215,7 +321,21 @@ const UserListPage = () => {
 
             <TableComponent columns={userType === 'customer' ? customerColumns : systemOwnerOrAdminColumns}
                             data={userData}
-                            showActions={( !(userType === "systemowner") && (isOwnerOrAdmin))}/>
+                            showActions={(!(userType === "systemowner" || userType === "systemadmin") && (isOwnerOrAdmin))}/>
+
+
+            <Modal show={confirmDialogShown} onHide={handleModalClose}>
+                <Modal.Body>Are you sure for deleting?</Modal.Body>
+                <Modal.Footer>
+                    <Button variant="secondary" onClick={handleModalClose}>
+                        Close
+                    </Button>
+                    <Button variant="danger" onClick={() => removeUser(selectedUser?.id)}>
+                        Delete
+                    </Button>
+                </Modal.Footer>
+            </Modal>
+
         </div>
     );
 }

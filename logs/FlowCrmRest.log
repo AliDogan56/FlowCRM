@@ -7,3 +7,6 @@
 2024-09-11T10:37:28.017+02:00  INFO 15316 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 15316 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
 2024-09-11T10:37:28.020+02:00  INFO 15316 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
 2024-09-11T10:37:34.938+02:00  INFO 15316 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 7.413 seconds (process running for 8.469)
+2024-09-11T12:37:01.118+02:00  INFO 18508 --- [restartedMain] com.dogan.bilisim.RestApplication        : Starting RestApplication using Java 17.0.12 with PID 18508 (/Users/alidogan/IdeaProjects/FlowCRM/rest/target/classes started by alidogan in /Users/alidogan/IdeaProjects/FlowCRM)
+2024-09-11T12:37:01.121+02:00  INFO 18508 --- [restartedMain] com.dogan.bilisim.RestApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-09-11T12:37:07.062+02:00  INFO 18508 --- [restartedMain] com.dogan.bilisim.RestApplication        : Started RestApplication in 6.518 seconds (process running for 7.45)

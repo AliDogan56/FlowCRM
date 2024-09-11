@@ -1,3 +1,10 @@
 /.idea/
 
 /logs/
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+/rest/src/main/resources/static/*

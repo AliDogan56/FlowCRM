@@ -26,6 +26,7 @@ const UserListPage = () => {
     const [perPage, setPerPage] = useState(10);
     const navigate = useNavigate();
     const [confirmDialogShown, setConfirmDialogShown] = useState<boolean>(false);
+    const [isOwnerOrAdminAndNotCustomer, setIsOwnerOrAdminAndNotCustomer] = useState<boolean>((isOwnerOrAdmin && userType === 'customer'));
     const [selectedUser, setSelectedUser] = useState<CustomerUserModel>();
 
 
@@ -199,7 +200,7 @@ const UserListPage = () => {
     };
 
     const removeUser = (id: any) => {
-        userService.removeUser(userType,id).then(
+        userService.removeUser(userType, id).then(
             (response) => {
                 setConfirmDialogShown(false);
                 setSelectedUser(undefined);
@@ -241,25 +242,27 @@ const UserListPage = () => {
                 <Col className="d-flex justify-content-start">
                     <h1>{getUserHeader()} Users</h1>
                 </Col>
-                <Col className="d-flex justify-content-end">
-                    <Button variant="primary" onClick={()=> {
-                        let pushRoute;
-                        switch (userType) {
-                            case 'customer':
-                                pushRoute = appRoutes.user.customer.create;
-                                break;
-                            case 'systemowner':
-                                pushRoute = appRoutes.user.systemowner.create;
-                                break;
-                            case 'systemadmin':
-                                pushRoute = appRoutes.user.systemadmin.create;
-                                break;
-                            default:
-                                pushRoute = null; // Handle the case where userType doesn't match any case
-                        }
-                        navigate(`/${pushRoute}`);
-                    }}>Add</Button>
-                </Col>
+                {isOwnerOrAdminAndNotCustomer &&
+                    <Col className="d-flex justify-content-end">
+                        <Button variant="primary" onClick={() => {
+                            let pushRoute;
+                            switch (userType) {
+                                case 'customer':
+                                    pushRoute = appRoutes.user.customer.create;
+                                    break;
+                                case 'systemowner':
+                                    pushRoute = appRoutes.user.systemowner.create;
+                                    break;
+                                case 'systemadmin':
+                                    pushRoute = appRoutes.user.systemadmin.create;
+                                    break;
+                                default:
+                                    pushRoute = null; // Handle the case where userType doesn't match any case
+                            }
+                            navigate(`/${pushRoute}`);
+                        }}>Add</Button>
+                    </Col>
+                }
             </Row>
             {userType === 'customer' &&
                 <Form onSubmit={handleSubmit} className="p-3">

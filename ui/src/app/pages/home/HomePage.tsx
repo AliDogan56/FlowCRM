@@ -1,62 +1,64 @@
-import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card';
 import authService from "../../services/auth/AuthService";
+import {CardBody} from "react-bootstrap";
+import {CardTitle, CardText, CardImg} from "reactstrap";
+import {appRoutes} from "../../../routes";
 
 const HomePage = () => {
     const isAdminOrOwner = authService.isSystemAdminOrOwner();
 
 
     return <>
-        <Container>
-            <Row>
+        <div>
+            <Row className={"match-height"}>
                 {isAdminOrOwner &&
                     <Col onClick={() => {
-                        window.location.href = "/user/systemowner/list";
+                        window.location.href = appRoutes.user.systemowner.list
                     }}>
-                        <Card style={{width: '18rem'}}>
-                            <Card.Img variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
-                            <Card.Body>
-                                <Card.Title><h3>System Owner</h3></Card.Title>
-                                <Card.Text>
+                        <Card>
+                            <CardImg variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
+                            <CardBody>
+                                <CardTitle><h3>System Owner</h3></CardTitle>
+                                <CardText>
                                     Info About System Owner
-                                </Card.Text>
-                            </Card.Body>
+                                </CardText>
+                            </CardBody>
                         </Card>
                     </Col>
                 }
 
                 {isAdminOrOwner &&
                     <Col onClick={() => {
-                        window.location.href = "/user/systemadmin/list";
+                        window.location.href = appRoutes.user.systemadmin.list
                     }}>
-                        <Card style={{width: '18rem'}}>
-                            <Card.Img variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
-                            <Card.Body>
-                                <Card.Title><h3>System Admins</h3></Card.Title>
-                                <Card.Text>
+                        <Card>
+                            <CardImg variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
+                            <CardBody>
+                                <CardTitle><h3>System Admins</h3></CardTitle>
+                                <CardText>
                                     List of System Admins
-                                </Card.Text>
-                            </Card.Body>
+                                </CardText>
+                            </CardBody>
                         </Card>
                     </Col>
                 }
                 <Col onClick={() => {
-                    window.location.href = "/user/customer/list";
+                    window.location.href = appRoutes.user.customer.list
                 }}>
-                    <Card style={{width: '18rem'}}>
-                        <Card.Img variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
-                        <Card.Body>
-                            <Card.Title><h3>Customer</h3></Card.Title>
-                            <Card.Text>
+                    <Card>
+                        <CardImg variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
+                        <CardBody>
+                            <CardTitle><h3>Customer</h3></CardTitle>
+                            <CardText>
                                 List of Customers
-                            </Card.Text>
-                        </Card.Body>
+                            </CardText>
+                        </CardBody>
                     </Card>
                 </Col>
             </Row>
-        </Container>
+        </div>
 
     </>
 }

@@ -1,10 +1,10 @@
 import {useEffect, useState} from "react";
 import userService from "../../../services/user/UserService";
 import {CustomerUserModel} from "../../../model/user/CustomerUserModel";
-import {Button, Col, Form, Row} from 'react-bootstrap';
-import Container from "react-bootstrap/Container";
 import {useNavigate} from "react-router-dom";
 import {UserRole} from "../../../model/user/AppUserModel";
+import {CardTitle, CardBody, FormGroup, Button, Label, Input, FormText, Col, Row, Card, Form} from "reactstrap";
+import {ArrowLeft} from "react-bootstrap-icons";
 
 
 const UserDetailPage = () => {
@@ -31,7 +31,7 @@ const UserDetailPage = () => {
 
                 });
         }
-    }, [userType]);
+    }, [id, operationType, userType]);
 
     const handleChange = (e: any) => {
         e.preventDefault();
@@ -69,90 +69,121 @@ const UserDetailPage = () => {
 
 
     return <>
-        <Container>
-            <h2>{id ? 'Edit User' : 'Create User'}</h2>
-            <Form onSubmit={handleSubmit}>
-                <Form.Group>
-                    <Form.Label>Username</Form.Label>
-                    <Form.Control
-                        type="text"
-                        name="username"
-                        value={selectedUser?.username}
-                        onChange={handleChange}
-                    />
-                </Form.Group>
+        <Card>
+            <Row>
+                <Col>
+                    <CardTitle>
+                        <h2>{id ? 'Edit User' : 'Create User'}</h2>
+                    </CardTitle>
+                </Col>
+                <Col>
+                    <div className={'d-flex justify-content-end'}>
+                        <Button color="warning" onClick={() => {
+                            navigate(-1);
+                        }}>
+                            <ArrowLeft></ArrowLeft>
+                        </Button>
+                    </div>
 
-                <Form.Group>
-                    <Form.Label>First Name</Form.Label>
-                    <Form.Control
-                        type="text"
-                        name="firstName"
-                        value={selectedUser?.firstName}
-                        onChange={handleChange}
-                    />
-                </Form.Group>
-
-                <Form.Group>
-                    <Form.Label>Last Name</Form.Label>
-                    <Form.Control
-                        type="text"
-                        name="lastName"
-                        value={selectedUser?.lastName}
-                        onChange={handleChange}
-                    />
-                </Form.Group>
-
-                <Form.Group>
-                    <Form.Label>Email</Form.Label>
-                    <Form.Control
-                        type="email"
-                        name="email"
-                        value={selectedUser?.email}
-                        onChange={handleChange}
-                    />
-                </Form.Group>
-
-                <Form.Group>
-                    <Form.Label>Region</Form.Label>
-                    <Form.Control
-                        type="text"
-                        name="region"
-                        value={selectedUser?.region}
-                        onChange={handleChange}
-                    />
-                </Form.Group>
-
-                {!id &&
-                    <Form.Group>
-                        <Form.Label htmlFor="inputPassword5">Password</Form.Label>
-                        <Form.Control
-                            type="password"
-                            name="password"
-                            id="inputPassword5"
-                            aria-describedby="passwordHelpBlock"
-                            value={selectedUser?.password}
-                            onChange={handleChange}
-                        />
-                        <Form.Text id="passwordHelpBlock" muted>
-                            Your password must be 8-20 characters long, contain letters and numbers,
-                            and must not contain spaces, special characters, or emoji.
-                        </Form.Text>
-                    </Form.Group>
-                }
-
-                <div className="mt-4 text-end">
+                </Col>
+            </Row>
+            <CardBody>
+                <Form onSubmit={handleSubmit}>
                     <Row>
                         <Col>
-                            <Button variant="primary" type="submit">
-                                Save Changes
-                            </Button>
+                            <FormGroup>
+                                <Label>Username</Label>
+                                <Input
+                                    type="text"
+                                    name="username"
+                                    value={selectedUser?.username}
+                                    onChange={handleChange}
+                                />
+                            </FormGroup>
+                        </Col>
+                        <Col>
+                            <FormGroup>
+                                <Label>First Name</Label>
+                                <Input
+                                    type="text"
+                                    name="firstName"
+                                    value={selectedUser?.firstName}
+                                    onChange={handleChange}
+                                />
+                            </FormGroup>
                         </Col>
                     </Row>
-                </div>
+                    <Row>
+                        <Col>
+                            <FormGroup>
+                                <Label>Last Name</Label>
+                                <Input
+                                    type="text"
+                                    name="lastName"
+                                    value={selectedUser?.lastName}
+                                    onChange={handleChange}
+                                />
+                            </FormGroup>
+                        </Col>
+                        <Col>
+                            <FormGroup>
+                                <Label>Email</Label>
+                                <Input
+                                    type="email"
+                                    name="email"
+                                    value={selectedUser?.email}
+                                    onChange={handleChange}
+                                />
+                            </FormGroup>
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col>
+                            <FormGroup>
+                                <Label>Region</Label>
+                                <Input
+                                    type="text"
+                                    name="region"
+                                    value={selectedUser?.region}
+                                    onChange={handleChange}
+                                />
+                            </FormGroup>
+                        </Col>
+                        <Col>
+                            {!id &&
+                                <FormGroup>
+                                    <Label htmlFor="inputPassword5">Password</Label>
+                                    <Input
+                                        type="password"
+                                        name="password"
+                                        id="inputPassword5"
+                                        aria-describedby="passwordHelpBlock"
+                                        value={selectedUser?.password}
+                                        onChange={handleChange}
+                                    />
+                                    <FormText id="passwordHelpBlock" muted>
+                                        Your password must be 8-20 characters long, contain letters and numbers,
+                                        and must not contain spaces, special characters, or emoji.
+                                    </FormText>
+                                </FormGroup>
+                            }
+                        </Col>
 
-            </Form>
+                    </Row>
+                    <Row>
+                        <Col>
+                            <FormGroup className={'text-end'}>
+                                <Button color="primary" type="submit">
+                                    Save Changes
+                                </Button>
+                            </FormGroup>
+                        </Col>
+                    </Row>
 
-        </Container>
+                </Form>
+
+            </CardBody>
+        </Card>
     </>
 
 }

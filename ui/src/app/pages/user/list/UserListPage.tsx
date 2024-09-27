@@ -1,78 +1,70 @@
-import TableComponent from "../../../components/table/TableComponent";
 import {useEffect, useState} from "react";
-import {Pencil, Trash} from "react-bootstrap-icons"
 import {CustomerUserModel, CustomerUserSearchDTO} from "../../../model/user/CustomerUserModel";
 import userService from "../../../services/user/UserService";
 import {toast} from "react-toastify";
-import {Form, Button, Row, Col} from 'react-bootstrap';
 import {SortOrder} from "../../../model/base/SortOrderDTO";
 import authService from "../../../services/auth/AuthService";
 import {appRoutes} from "../../../../routes";
 import {useNavigate} from "react-router-dom";
 import Modal from 'react-bootstrap/Modal';
+import {CardTitle, FormGroup, Input, Label, Button, Form, Row, Col, CardBody, ModalBody, ModalFooter} from "reactstrap";
+import DataTable from 'react-data-table-component'
+import {Edit, Trash} from "react-feather";
+import {ArrowLeft, PlusSquare} from "react-bootstrap-icons";
 
 
 const UserListPage = () => {
     const userType = new URL(window.location.href).pathname.toString().split("/")[2];
-    const isOwnerOrAdmin = authService.isSystemAdminOrOwner();
     const [firstName, setFirstName] = useState('');
     const [lastName, setLastName] = useState('');
     const [region, setRegion] = useState('');
     const [email, setEmail] = useState('');
     const [userData, setUserData] = useState<CustomerUserModel[]>([]);
     const [searchData, setSearchData] = useState<CustomerUserSearchDTO>();
-    const [sortOrder, setSortOrder] = useState<SortOrder>({fieldName: "id", orderProperty: "id", orderType: "ASC"});
-    const [page, setPage] = useState(0);
-    const [perPage, setPerPage] = useState(10);
+    const [sortOrder] = useState<SortOrder>({fieldName: "id", orderProperty: "id", orderType: "ASC"});
+    const [page] = useState(0);
+    const [perPage] = useState(10);
     const navigate = useNavigate();
     const [confirmDialogShown, setConfirmDialogShown] = useState<boolean>(false);
-    const [isOwnerOrAdminAndNotCustomer, setIsOwnerOrAdminAndNotCustomer] = useState<boolean>((isOwnerOrAdmin && userType === 'customer'));
     const [selectedUser, setSelectedUser] = useState<CustomerUserModel>();
 
-
-    const customerColumns = [
+    const basicColumns = [
         {
-            Header: "Id",
-            accessor: 'id',
-            Cell: ({value}: any) => (<span>{value}</span>)
+            name: 'ID',
+            selector: (row: CustomerUserModel) => row.id !== undefined ? row.id : 0,
         },
         {
-            Header: "Username",
-            accessor: 'username',
-            Cell: ({value}: any) => (<span>{value}</span>)
+            name: 'Username',
+            selector: (row: CustomerUserModel) => row.username !== undefined ? row.username : '',
         },
         {
-            Header: "First Name",
-            accessor: 'firstName',
-            Cell: ({value}: any) => (<span>{value}</span>)
+            name: 'First Name',
+            selector: (row: CustomerUserModel) => row.firstName !== undefined ? row.firstName : '',
         },
         {
-            Header: "Last Name",
-            accessor: 'lastName',
-            Cell: ({value}: any) => (<span>{value}</span>)
+            name: 'Last Name',
+            selector: (row: CustomerUserModel) => row.lastName !== undefined ? row.lastName : '',
         },
         {
-            Header: "Email",
-            accessor: 'email',
-            Cell: ({value}: any) => (<span>{value}</span>)
+            name: 'Email',
+            selector: (row: CustomerUserModel) => row.email !== undefined ? row.email : '',
         },
         {
-            Header: "Region",
-            accessor: 'region',
-            Cell: ({value}: any) => (<span>{value}</span>)
+            name: 'Region',
+            selector: (row: CustomerUserModel) => row.region !== undefined ? row.region : '',
         },
         {
             id: 'actions',
-            accessor: 'id',
+            selector: (row: CustomerUserModel) => row.id !== undefined ? row.id : '',
             className: 'p-0',
-            Cell: ({value}: any) => (
-                <div className="text-right d-flex justify-content-center" style={{gap: '10px'}}>
+            cell: (row: CustomerUserModel) => (
+                <div className={'d-flex justify-content-end'}>
                     <Button
-                        className="btn-table-cell btn-full-back btn-bg-danger"
-                        variant="success"
+                        className="mr-1 mb-1 me-1"
+                        color="primary"
                         onClick={() => {
                             if (userData) {
-                                const selectedItem = userData.find(item => item.id === value);
+                                const selectedItem = userData.find(item => item.id === row.id);
                                 let pushRoute;
                                 switch (userType) {
                                     case 'customer':
@@ -91,18 +83,18 @@ const UserListPage = () => {
                             }
                         }}
                     >
-                        <Pencil/>
+                        <Edit size={14}/>
                     </Button>
                     <Button
-                        className="btn-table-cell btn-full-back btn-bg-danger"
-                        variant="danger"
-                        onClick={() => {
-                            const selectedItem = userData.find(item => item.id === value);
+                        className="mr-1 mb-1"
+                        color="danger"
+                        onClick={(value) => {
+                            const selectedItem = userData.find(item => item.id === row.id);
                             setSelectedUser(selectedItem);
                             setConfirmDialogShown(true);
                         }}
                     >
-                        <Trash/>
+                        <Trash size={14}/>
                     </Button>
                 </div>
             )
@@ -111,59 +103,12 @@ const UserListPage = () => {
 
     const systemOwnerOrAdminColumns = [
         {
-            Header: "Id",
-            accessor: 'id',
-            Cell: ({value}: any) => (<span>{value}</span>)
+            name: 'ID',
+            selector: (row: CustomerUserModel) => row.id !== undefined ? row.id : 0,
         },
         {
-            Header: "Username",
-            accessor: 'username',
-            Cell: ({value}: any) => (<span>{value}</span>)
-        },
-        {
-            id: 'actions',
-            accessor: 'id',
-            className: 'p-0',
-            Cell: ({value}: any) => (
-                <div className="text-right d-flex justify-content-center" style={{gap: '10px'}}>
-                    <Button
-                        className="btn-table-cell btn-full-back btn-bg-danger"
-                        variant="success"
-                        onClick={() => {
-                            if (userData) {
-                                const selectedItem = userData.find(item => item.id === value);
-                                let pushRoute;
-                                switch (userType) {
-                                    case 'customer':
-                                        pushRoute = appRoutes.user.customer.detail;
-                                        break;
-                                    case 'systemowner':
-                                        pushRoute = appRoutes.user.systemowner.detail;
-                                        break;
-                                    case 'systemadmin':
-                                        pushRoute = appRoutes.user.systemadmin.detail;
-                                        break;
-                                    default:
-                                        pushRoute = null; // Handle the case where userType doesn't match any case
-                                }
-                                navigate(`${pushRoute + selectedItem?.id}`)
-                            }
-                        }}
-                    >
-                        <Pencil/>
-                    </Button>
-                    <Button
-                        className="btn-table-cell btn-full-back btn-bg-danger"
-                        variant="danger"
-                        onClick={() => {
-                            const selectedItem = userData.find(item => item.id === value);
-                            setSelectedUser(selectedItem);
-                        }}
-                    >
-                        <Trash/>
-                    </Button>
-                </div>
-            )
+            name: 'Username',
+            selector: (row: CustomerUserModel) => row.username !== undefined ? row.username : '',
         }
     ];
 
@@ -236,110 +181,137 @@ const UserListPage = () => {
         return userHeader;
     };
 
-    return (
-        <div className="container mt-4">
-            <Row className="align-items-center">
-                <Col className="d-flex justify-content-start">
-                    <h1>{getUserHeader()} Users</h1>
-                </Col>
-                {isOwnerOrAdminAndNotCustomer &&
-                    <Col className="d-flex justify-content-end">
-                        <Button variant="primary" onClick={() => {
+    return <>
+        <Row>
+            <Col>
+                <CardTitle>
+                    <h1>{getUserHeader()}</h1>
+                </CardTitle>
+            </Col>
+            <Col>
+                <div className={'d-flex justify-content-end'}>
+                    { (authService.isSystemAdminOrOwner() && userType === 'customer') &&
+                        <Button color="success" className="me-1" onClick={() => {
                             let pushRoute;
                             switch (userType) {
                                 case 'customer':
-                                    pushRoute = appRoutes.user.customer.create;
-                                    break;
-                                case 'systemowner':
-                                    pushRoute = appRoutes.user.systemowner.create;
-                                    break;
-                                case 'systemadmin':
-                                    pushRoute = appRoutes.user.systemadmin.create;
+                                    pushRoute = appRoutes.user.customer.detail;
                                     break;
                                 default:
                                     pushRoute = null; // Handle the case where userType doesn't match any case
                             }
-                            navigate(`/${pushRoute}`);
-                        }}>Add</Button>
-                    </Col>
-                }
-            </Row>
-            {userType === 'customer' &&
-                <Form onSubmit={handleSubmit} className="p-3">
-                    <Row className="mb-3">
-                        <Col md={6}>
-                            <Form.Group controlId="formFirstName">
-                                <Form.Label>First Name</Form.Label>
-                                <Form.Control
-                                    type="text"
-                                    placeholder="Enter first name"
-                                    value={firstName}
-                                    onChange={(e) => setFirstName(e.target.value)}
-                                />
-                            </Form.Group>
-                        </Col>
-                        <Col md={6}>
-                            <Form.Group controlId="formLastName">
-                                <Form.Label>Last Name</Form.Label>
-                                <Form.Control
-                                    type="text"
-                                    placeholder="Enter last name"
-                                    value={lastName}
-                                    onChange={(e) => setLastName(e.target.value)}
-                                />
-                            </Form.Group>
-                        </Col>
-                    </Row>
-                    <Row className="mb-3">
-                        <Col md={6}>
-                            <Form.Group controlId="formRegion">
-                                <Form.Label>Region</Form.Label>
-                                <Form.Control
-                                    type="text"
-                                    placeholder="Enter region"
-                                    value={region}
-                                    onChange={(e) => setRegion(e.target.value)}
-                                />
-                            </Form.Group>
-                        </Col>
-                        <Col md={6}>
-                            <Form.Group controlId="formEmail">
-                                <Form.Label>Email</Form.Label>
-                                <Form.Control
-                                    type="text"
-                                    placeholder="Enter email"
-                                    value={email}
-                                    onChange={(e) => setEmail(e.target.value)}
-                                />
-                            </Form.Group>
-                        </Col>
-                    </Row>
-                    <div className="text-end">
-                        <Button variant="primary" type="submit">
-                            Search
+                            navigate(`/${pushRoute?.toString()}`);
+                        }}>
+                            <PlusSquare></PlusSquare>
                         </Button>
-                    </div>
-                </Form>
-            }
+                    }
 
-            <TableComponent columns={userType === 'customer' ? customerColumns : systemOwnerOrAdminColumns}
-                            data={userData}
-                            showActions={(!(userType === "systemowner" || userType === "systemadmin") && (isOwnerOrAdmin))}/>
+                    <Button color="warning" onClick={() => {
+                        navigate(-1);
 
-
-            <Modal show={confirmDialogShown} onHide={handleModalClose}>
-                <Modal.Body>Are you sure for deleting?</Modal.Body>
-                <Modal.Footer>
-                    <Button variant="secondary" onClick={handleModalClose}>
-                        Close
+                    }}>
+                        <ArrowLeft></ArrowLeft>
                     </Button>
-                    <Button variant="danger" onClick={() => removeUser(selectedUser?.id)}>
-                        Delete
-                    </Button>
-                </Modal.Footer>
-            </Modal>
+                </div>
 
-        </div>
-    );
+            </Col>
+        </Row>
+        <CardBody>
+            <Form onSubmit={handleSubmit}>
+                <Row>
+                    <Col>
+                        <FormGroup>
+                            <Label className='form-label'>
+                                First Name
+                            </Label>
+                            <Input
+                                autoFocus
+                                type='text'
+                                onChange={(event) => setFirstName(event.target.value)}
+                                id='firstName'
+                                name='firstName'
+                                placeholder='First Name'
+                            />
+                        </FormGroup>
+                    </Col>
+                    <Col>
+                        <FormGroup>
+                            <Label className='form-label'>
+                                Last Name
+                            </Label>
+                            <Input
+                                type='text'
+                                onChange={(event) => setLastName(event.target.value)}
+                                id='lastName'
+                                name='lastName'
+                                placeholder='Last Name'
+                            />
+                        </FormGroup>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col>
+                        <FormGroup>
+                            <Label className='form-label'>
+                                Region
+                            </Label>
+                            <Input
+                                type='text'
+                                onChange={(event) => setRegion(event.target.value)}
+                                id='region'
+                                name='region'
+                                placeholder='Region'
+                            />
+                        </FormGroup>
+                    </Col>
+                    <Col>
+                        <FormGroup>
+                            <Label className='form-label'>
+                                Email
+                            </Label>
+                            <Input
+                                type='text'
+                                onChange={(event) => setEmail(event.target.value)}
+                                id='email'
+                                name='email'
+                                placeholder='Email'
+                            />
+                        </FormGroup>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col>
+                        <FormGroup className={'text-end'}>
+                            <Button color="primary" type="submit">
+                                Search
+                            </Button>
+                        </FormGroup>
+                    </Col>
+                </Row>
+            </Form>
+
+        </CardBody>
+        <CardBody>
+            <DataTable
+                noHeader
+                data={userData}
+                columns={userType === 'customer' ? basicColumns : systemOwnerOrAdminColumns}
+                className='react-dataTable'
+            />
+        </CardBody>
+
+
+        <Modal show={confirmDialogShown} onHide={handleModalClose}>
+            <ModalBody>Are you sure for deleting?</ModalBody>
+            <ModalFooter>
+                <Button color="secondary" onClick={handleModalClose}>
+                    Close
+                </Button>
+                <Button color="danger" onClick={() => removeUser(selectedUser?.id)}>
+                    Delete
+                </Button>
+            </ModalFooter>
+        </Modal>
+    </>
 }
 export default UserListPage

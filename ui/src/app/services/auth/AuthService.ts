@@ -1,22 +1,26 @@
 import axios from "axios";
 import {jwtDecode} from "jwt-decode";
 import {UserRole} from "../../model/user/AppUserModel";
+import {appRoutes} from "../../../routes";
 
 
 const API_URL = window.config.baseApiUrl;
 
 
-const login = async (username: string, password: string) => {
+const login = async (username: string | undefined, password: string | undefined) => {
 
-    const response = await axios
+    return axios
         .post(API_URL + "/auth/login", {
             username,
             password,
+        })
+        .then((response) => {
+            if (response.data.token) {
+                localStorage.setItem("token", JSON.stringify(response.data));
+                window.location.href = appRoutes.main;
+            }
         });
-    if (response.data.token) {
-        localStorage.setItem("token", JSON.stringify(response.data));
-        window.location.href = "/";
-    }
+
 };
 
 const isUserInRole = (role: string): boolean => {
@@ -36,11 +40,29 @@ const isSystemAdminOrOwner = (): boolean => {
 const isCustomer = (): boolean => {
     return isUserInRole(UserRole.Customer);
 }
-const logout = () => {
-    localStorage.removeItem("token");
-    window.location.href = "/auth/login";
+const removeToken = () => {
+    return new Promise<void>((resolve) => {
+        localStorage.removeItem("token");
+        resolve();
+    });
+};
+const logout = async () => {
+    try {
+        await removeToken();
+        window.location.href = appRoutes.auth.login;
+    } catch (error) {
+        console.error(error);
+    }
 
 };
+
+const getCurrentUserName = (): string => {
+    const user = getCurrentUser();
+    if (!user)
+        return "";
+    const decodedJwt = jwtDecode<any>(user);
+    return decodedJwt.userId;
+}
 
 const getCurrentUser = () => {
     const tokenJson = localStorage.getItem("token");
@@ -55,6 +77,7 @@ const authService = {
     isAuthenticated,
     isUserInRole,
     isSystemAdminOrOwner,
-    isCustomer
+    isCustomer,
+    getCurrentUserName
 };
 export default authService;

@@ -3,11 +3,5 @@
 @import 'base/colors';
 @import 'base/components';
 
-// Themes
-@import 'base/themes/dark-layout';
-@import 'base/themes/bordered-layout';
-@import 'base/themes/semi-dark-layout';
-// @import './base/custom-rtl.scss';
-
 // React Specific
 @import 'react/index';

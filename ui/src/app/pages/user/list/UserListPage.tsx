@@ -6,8 +6,7 @@ import {SortOrder} from "../../../model/base/SortOrderDTO";
 import authService from "../../../services/auth/AuthService";
 import {appRoutes} from "../../../../routes";
 import {useNavigate} from "react-router-dom";
-import Modal from 'react-bootstrap/Modal';
-import {CardTitle, FormGroup, Input, Label, Button, Form, Row, Col, CardBody, ModalBody, ModalFooter} from "reactstrap";
+import {CardTitle, FormGroup, Input, Label, Button, Form, Row, Col, CardBody, ModalBody, ModalFooter, Modal} from "reactstrap";
 import DataTable from 'react-data-table-component'
 import {Edit, Trash} from "react-feather";
 import {ArrowLeft, PlusSquare} from "react-bootstrap-icons";

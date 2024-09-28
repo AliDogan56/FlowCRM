@@ -5,7 +5,6 @@ import {yupResolver} from '@hookform/resolvers/yup';
 import classnames from 'classnames'
 import {toast, Slide} from 'react-toastify'
 import {Link} from 'react-router-dom'
-import {Coffee} from 'react-feather'
 import {
     Row,
     Col,
@@ -19,22 +18,17 @@ import {
 } from 'reactstrap'
 
 import '../../../assets/scss/main/base/pages/page-auth.scss'
-import Avatar from "../../../components/avatar";
 import InputPasswordToggle from "../../../components/input/InputPasswordToggle";
 import {LoginRequestModel} from "../../model/auth/LoginRequestModel";
 import {useForm} from 'react-hook-form';
 import authService from "../../services/auth/AuthService";
+import {appRoutes} from "../../../routes";
 
 // Toast content component
 const ToastContent = ({name, role}: { name: string | undefined; role: string | undefined }) => (
     <Fragment>
-        <div className='toastify-header'>
-            <div className='title-wrapper'>
-                <Avatar size='sm' color='success' icon={<Coffee size={12}/>}/>
-                <h6 className='toast-title font-weight-bold'>Welcome, {name}</h6>
-            </div>
-        </div>
         <div className='toastify-body'>
+            <h6 className='toast-title font-weight-bold'>Welcome, {name}</h6>
             <span>You have successfully logged in as an {role} user to FlowCRM. Now you can start to explore. Enjoy!</span>
         </div>
     </Fragment>
@@ -59,8 +53,17 @@ const Login = () => {
                     name={data.username}
                     role={'Admin'}
                 />,
-                { transition: Slide, hideProgressBar: true, autoClose: 2000 }
+                {
+                    transition: Slide,
+                    hideProgressBar: true,
+                    autoClose: 800,
+                    onClose: () => {
+                        window.location.href = appRoutes.main;
+                    }
+                }
             );
+
+
         }).catch(error => {
             toast.error('Login failed!', {transition: Slide, autoClose: 2000});
         });

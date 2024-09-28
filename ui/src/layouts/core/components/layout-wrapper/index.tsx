@@ -1,12 +1,11 @@
 // ** React Imports
-import {Fragment, useEffect} from 'react'
+import {useEffect} from 'react'
 
 // ** Third Party Components
 import classnames from 'classnames'
 
 // ** Store & Actions
 import {handleContentWidth, handleMenuCollapsed, handleMenuHidden} from '../../../../redux/actions/layout'
-import Container from "react-bootstrap/Container";
 
 // ** Styles
 

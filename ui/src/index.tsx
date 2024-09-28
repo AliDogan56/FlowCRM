@@ -14,6 +14,8 @@ import {IntlProviderWrapper} from './utility/context/Internationalization'
 import Spinner from './components/spinner/Fallback-spinner'
 
 import 'react-perfect-scrollbar/dist/css/styles.css'
+import './assets/scss/main/react/libs/toastify/toastify.scss'
+
 
 import './assets/fonts/feather/iconfont.css'
 import './assets/scss/main/core.scss'

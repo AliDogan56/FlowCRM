@@ -16,6 +16,7 @@
 	<description>FlowCRM backend project</description>
 	<modules>
 		<module>rest</module>
+		<module>notification</module>
 		<module>service</module>
 		<module>dao</module>
 		<module>domain</module>

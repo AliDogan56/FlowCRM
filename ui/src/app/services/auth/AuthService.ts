@@ -17,7 +17,6 @@ const login = async (username: string | undefined, password: string | undefined)
         .then((response) => {
             if (response.data.token) {
                 localStorage.setItem("token", JSON.stringify(response.data));
-                window.location.href = appRoutes.main;
             }
         });
 

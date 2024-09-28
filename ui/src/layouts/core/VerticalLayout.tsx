@@ -15,8 +15,6 @@ import SidebarComponent from './components/menu/vertical-menu'
 // ** Styles
 import '../../assets/scss/main/base/core/menu/menu-types/vertical-menu.scss'
 import '../../assets/scss/main/base/core/menu/menu-types/vertical-overlay-menu.scss'
-import Container from "react-bootstrap/Container";
-import Card from "react-bootstrap/Card";
 
 
 const VerticalLayout = ({children, menu, routerProps, currentActiveItem}: any) => {

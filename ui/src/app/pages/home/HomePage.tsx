@@ -1,9 +1,5 @@
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Card from 'react-bootstrap/Card';
 import authService from "../../services/auth/AuthService";
-import {CardBody} from "react-bootstrap";
-import {CardTitle, CardText, CardImg} from "reactstrap";
+import {CardTitle, CardText, CardImg, Row, Col, Card, CardBody} from "reactstrap";
 import {appRoutes} from "../../../routes";
 
 const HomePage = () => {

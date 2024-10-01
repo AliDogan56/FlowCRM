@@ -22,12 +22,14 @@ import java.util.stream.Collectors;
 @Builder
 public class SecurityUserDetails implements UserDetails {
     private JwtToken jwtToken;
+    private Long id;
     private String username;
     private String password;
     private List<String> roles;
 
     public static SecurityUserDetails build(AppUser user, String jti, String token, List<String> scopes, Claims claims, final Instant expireDate) {
         return SecurityUserDetails.builder()
+                .id(user.getId())
                 .password(user.getPassword())
                 .username(user.getUsername())
                 .jwtToken(new AccessJwtToken(token, jti, claims, expireDate))

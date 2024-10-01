@@ -1,9 +1,23 @@
 import authService from "../../services/auth/AuthService";
-import {CardTitle, CardText, CardImg, Row, Col, Card, CardBody} from "reactstrap";
+import {CardTitle, CardText, CardImg, Row, Col, Card, CardBody, Button} from "reactstrap";
 import {appRoutes} from "../../../routes";
+import {useEffect} from "react";
+import notificationService from "../../services/notification/NotificationService";
+import {Instagram} from "react-feather";
 
 const HomePage = () => {
     const isAdminOrOwner = authService.isSystemAdminOrOwner();
+    const user = localStorage.getItem('token') ? JSON.parse(localStorage.getItem('token') ?? "") : "";
+    const jwtBody = user.token.split('.')[1];
+    const userPrefix = jwtBody.substring(jwtBody.length - 13, jwtBody.length - 1);
+
+
+    useEffect(() => {
+        notificationService.connect();
+        return () => {
+            notificationService.disconnect();
+        };
+    }, []);
 
 
     return <>
@@ -54,6 +68,19 @@ const HomePage = () => {
                     </Card>
                 </Col>
             </Row>
+            <Button
+                className="mr-1 mb-1"
+                color="danger"
+                onClick={(value) => {
+                    notificationService.sendMessage({
+                        userPrefix: userPrefix,
+                        message: "WebSocket"
+                    }).then((res) => {
+                    })
+                }}
+            >
+                <Instagram size={14}/>
+            </Button>
         </div>
 
     </>

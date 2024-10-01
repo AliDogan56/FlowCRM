@@ -38,7 +38,9 @@
     "@reduxjs/toolkit": "^2.2.7",
     "yup": "^1.4.0",
     "@hookform/resolvers": "^2.4.0",
-    "react-data-table-component": "^7.6.2"
+    "react-data-table-component": "^7.6.2",
+    "@types/sockjs-client": "^1.5.4",
+    "@stomp/stompjs": "^7.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

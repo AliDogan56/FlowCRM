@@ -35,14 +35,6 @@ axios.interceptors.response.use(response => {
     return Promise.reject(error);
 });
 
-axios.interceptors.request.use(function (config) {
-    if (!config.url?.includes("wp-json")) {
-        config.headers['Cache-Control'] = "no-cache";
-        config.headers['Cache-Control'] = "no-cache";
-    }
-    return config;
-});
-
 // ** Lazy load app
 const LazyApp = lazy(() => import('./app/App'))
 const container = document.getElementById('root');

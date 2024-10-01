@@ -57,6 +57,7 @@ public class AuthenticationService implements UserAuthenticationService {
                     final List<String> roles = Arrays.asList(appUser.getRole().getRoles());
                     final TokenDetails tokenDetails = jwtTokenFactory.generateToken(appUser.getUsername(), roles, appUser.getUsername());
                     return Optional.of(new SecurityUserDetails(tokenDetails,
+                            appUser.getId(),
                             appUser.getUsername(),
                             passwordEncoder.encode(appUser.getPassword()),
                             roles));

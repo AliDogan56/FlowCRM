@@ -26,4 +26,16 @@ public class JwtHeaderTokenExtractor implements TokenExtractor {
 
         return header.substring(HEADER_PREFIX.length());
     }
+
+    public String extract(String header) {
+        if (!StringUtils.hasText(header)) {
+            throw new FlowCrmSecurityException(FlowCrmErrorCode.AUTHENTICATION, "ApiMessages.AuthorizationHeaderCannotBeBlank");
+        }
+
+        if (header.length() < HEADER_PREFIX.length()) {
+            throw new FlowCrmSecurityException(FlowCrmErrorCode.AUTHENTICATION, "ApiMessages.InvalidAuthorizationHeaderSize");
+        }
+
+        return header.substring(HEADER_PREFIX.length());
+    }
 }

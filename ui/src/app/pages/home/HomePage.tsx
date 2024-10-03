@@ -1,23 +1,11 @@
 import authService from "../../services/auth/AuthService";
-import {CardTitle, CardText, CardImg, Row, Col, Card, CardBody, Button} from "reactstrap";
+import {CardTitle, CardText, CardImg, Row, Col, Card, CardBody} from "reactstrap";
 import {appRoutes} from "../../../routes";
-import {useEffect} from "react";
-import notificationService from "../../services/notification/NotificationService";
-import {Instagram} from "react-feather";
+import {useNavigate} from "react-router-dom";
 
 const HomePage = () => {
     const isAdminOrOwner = authService.isSystemAdminOrOwner();
-    const user = localStorage.getItem('token') ? JSON.parse(localStorage.getItem('token') ?? "") : "";
-    const jwtBody = user.token.split('.')[1];
-    const userPrefix = jwtBody.substring(jwtBody.length - 13, jwtBody.length - 1);
-
-
-    useEffect(() => {
-        notificationService.connect();
-        return () => {
-            notificationService.disconnect();
-        };
-    }, []);
+    const navigate = useNavigate();
 
 
     return <>
@@ -25,7 +13,7 @@ const HomePage = () => {
             <Row className={"match-height"}>
                 {isAdminOrOwner &&
                     <Col onClick={() => {
-                        window.location.href = appRoutes.user.systemowner.list
+                        navigate(`/${appRoutes.user.systemowner.list}`);
                     }}>
                         <Card>
                             <CardImg variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
@@ -41,7 +29,7 @@ const HomePage = () => {
 
                 {isAdminOrOwner &&
                     <Col onClick={() => {
-                        window.location.href = appRoutes.user.systemadmin.list
+                        navigate(`/${appRoutes.user.systemadmin.list}`);
                     }}>
                         <Card>
                             <CardImg variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
@@ -55,7 +43,7 @@ const HomePage = () => {
                     </Col>
                 }
                 <Col onClick={() => {
-                    window.location.href = appRoutes.user.customer.list
+                    navigate(`/${appRoutes.user.customer.list}`);
                 }}>
                     <Card>
                         <CardImg variant="top" src="https://primefaces.org/cdn/primereact/images/usercard.png"/>
@@ -68,19 +56,6 @@ const HomePage = () => {
                     </Card>
                 </Col>
             </Row>
-            <Button
-                className="mr-1 mb-1"
-                color="danger"
-                onClick={(value) => {
-                    notificationService.sendMessage({
-                        userPrefix: userPrefix,
-                        message: "WebSocket"
-                    }).then((res) => {
-                    })
-                }}
-            >
-                <Instagram size={14}/>
-            </Button>
         </div>
 
     </>

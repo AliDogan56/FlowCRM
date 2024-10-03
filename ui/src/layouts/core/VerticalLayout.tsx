@@ -15,6 +15,7 @@ import SidebarComponent from './components/menu/vertical-menu'
 // ** Styles
 import '../../assets/scss/main/base/core/menu/menu-types/vertical-menu.scss'
 import '../../assets/scss/main/base/core/menu/menu-types/vertical-overlay-menu.scss'
+import notificationService from "../../app/services/notification/NotificationService";
 
 
 const VerticalLayout = ({children, menu, routerProps, currentActiveItem}: any) => {
@@ -24,7 +25,15 @@ const VerticalLayout = ({children, menu, routerProps, currentActiveItem}: any) =
     const [menuVisibility, setMenuVisibility] = useState(false)
     const [menuCollapsed, setMenuCollapsed] = useState(true)
     // ** Vars
-    const location = useLocation()
+    const location = useLocation();
+
+
+    useEffect(() => {
+        notificationService.connect();
+        return () => {
+            notificationService.disconnect();
+        };
+    }, []);
 
     // ** Update Window Width
     useEffect(() => {

@@ -5,8 +5,8 @@ import axios from "axios";
 let user = localStorage.getItem('token') ? JSON.parse(localStorage.getItem('token') ?? "") : "";
 const WEB_SOCKET_URL = window.config.webSocketUrl;
 const NOTIFICATION_URL = window.config.notificationUrl;
-const jwtBody = user.token.split('.')[1];
-const userPrefix = jwtBody.substring(jwtBody.length - 13, jwtBody.length-1);
+const jwtBody = user.token?.split('.')[1];
+const userPrefix = jwtBody?.substring(jwtBody.length - 13, jwtBody.length-1);
 
 
 const socket = new SockJS(`${WEB_SOCKET_URL}`);

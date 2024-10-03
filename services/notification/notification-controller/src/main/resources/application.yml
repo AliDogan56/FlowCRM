@@ -1,0 +1,71 @@
+flowcrm:
+  baseurl: http://localhost:8090
+  security:
+    jwt:
+      jwtPrivateFile: classpath:jwt-keys/private.pem
+      jwtPublicFile: classpath:jwt-keys/public-key.pem
+      tokenExpirationTime: 86400
+      tokenIssuer: flowCrm
+  token:
+    header:
+      name: Authorization
+debug: false
+logging:
+  file:
+    name: ./logs/FlowCrmNotification.log
+  level:
+    org:
+      apache: ERROR
+      hibernate:
+        SQL: OFF
+      spring: ERROR
+    root: ERROR
+    com:
+      dogan:
+        bilisim: INFO
+server:
+  port: 8090
+json:
+  log:
+    pretty: true
+spring:
+  kafka:
+    bootstrap-servers: 0.0.0.0:9092
+  debug: false
+  datasource:
+    url: jdbc:mysql://localhost:3306/flow_crm?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    username: admin
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jackson:
+    default-property-inclusion: NON_NULL
+    date-format: com.fasterxml.jackson.databind.util.ISO8601DateFormat
+    serialization:
+      fail-on-empty-beans: false
+  jpa:
+    hibernate:
+      show_sql: false
+      ddl-auto: update
+      jdbc:
+        time_zone: UTC
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect # MySQL Dialect
+        show_sql: false
+        use_sql_comments: false
+        format_sql: false
+        temp:
+          use_jdbc_metadata_defaults: false
+    show-sql: false
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+
+database.vendor.error:
+  codes:
+    2627:
+      message: "Validation.constraint.violation.duplicate.key"
+      errorCode: UNIQUE_CONSTRAINS
+
